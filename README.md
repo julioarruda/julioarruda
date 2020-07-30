@@ -3,6 +3,8 @@
 Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5002557?fullName=Julio%20%20Arruda) por 4 anos consecutivos, com contribuições focadas em DevOps.
 
 
+- ⭐ Sou [GitHub Star](https://stars.github.com/profiles/julioarruda) e [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5002557?fullName=Julio%20%20Arruda)
+
 - 🔭 Atualmente atuo como Senior Cloud & DevOps Solutions Architect na @GFT
 
 - 👯 Compartilho conteúdos sobre DevOps em meu [Canal do Youtube](https://youtube.com/user/julioarrudac)
