@@ -13,6 +13,18 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 - ⚡ Fato divertido: Sou violinista, e toco na orquestra da igreja que frequento, a Congregação Cristã no Brasil.
 
+<p align="center">
+  <a href="https://github.com/eddiejaoude?tab=followers">
+    <img src="https://img.shields.io/github/followers/julioarruda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/eddiejaoude">
+    <img src="https://img.shields.io/twitter/follow/julioarrudac?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/user/julioarrudac?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/4BYlkYtHNus?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
+
 <!--
 **julioarruda/julioarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
