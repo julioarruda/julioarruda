@@ -23,9 +23,10 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
   <a href="http://youtube.com/user/julioarrudac?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/4BYlkYtHNus?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
+  <iframe width=”560″ height=”315″ src=”https://www.youtube.com/playlist?list=UUnQzZNPePG3EZMj7Qg3D0Sw” frameborder=”0″ allow=”accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe>
 </p>
 
-<iframe width=”560″ height=”315″ src=”https://www.youtube.com/playlist?list=UUnQzZNPePG3EZMj7Qg3D0Sw” frameborder=”0″ allow=”accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe>
+
 
 <!--
 **julioarruda/julioarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
