@@ -26,10 +26,6 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 <!-- YOUTUBE:END -->
 
 
-### 📺 Próximos Meetups
-<!-- MEETUP:START -->
-<!-- MEETUP:END -->
-
 <p align="center">
   <a href="https://github.com/eddiejaoude?tab=followers">
     <img src="https://img.shields.io/github/followers/julioarruda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
