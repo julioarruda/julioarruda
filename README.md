@@ -27,6 +27,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 </p>
 
 
+### 📺 Vídeos Recentes
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 
 <!--
 **julioarruda/julioarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
