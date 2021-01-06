@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [Atualizando seu perfil do GitHub com Actions](https://www.youtube.com/watch?v=-WtK2mF2Z_8)
 - [Oque é o Azure DevOps | Primeiros Passos](https://www.youtube.com/watch?v=I9dVHxbRDBw)
 - [Incluindo um vídeo na sua Issue do GitHub | Arruda Drops](https://www.youtube.com/watch?v=Ot2xnXtLJmo)
 - [Oque tem instalado no GitHub Actions??](https://www.youtube.com/watch?v=qu8ZBFW0cv8)
 - [GitHub Day - Tech Saturday #15](https://www.youtube.com/watch?v=4YH9fuUc7wY)
-- [Montando um pipeline de Implantação com GitHub Actions](https://www.youtube.com/watch?v=Oe-Yu3YP0YQ)
 <!-- YOUTUBE:END -->
 
 
