@@ -25,6 +25,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 - [Oque é o Azure DevOps | Guia para Iniciantes](https://www.youtube.com/watch?v=I9dVHxbRDBw)
 <!-- YOUTUBE:END -->
 
+### 🚀  Próximos Meetups
+
+<!-- MEETUP:START -->
+<!-- MEETUP:END -->
+
 
 <p align="center">
   <a href="https://github.com/eddiejaoude?tab=followers">
