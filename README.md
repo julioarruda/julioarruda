@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
-- [Criando um Pipeline de CI no @Azure DevOps  | Primeiros Passos](https://www.youtube.com/watch?v=zjKAG7JkPws)
-- [Oque é o GitHub | Primeiros Passos](https://www.youtube.com/watch?v=Hs8AUYoCItI)
-- [Oque é o Azure Boards | Primeiros Passos](https://www.youtube.com/watch?v=sJzMCIWbZME)
+- [Criando um Pipeline de CI no @Azure DevOps  | Guia para Iniciantes](https://www.youtube.com/watch?v=zjKAG7JkPws)
+- [Oque é o GitHub | Guia para Iniciantes](https://www.youtube.com/watch?v=Hs8AUYoCItI)
+- [Oque é o Azure Boards | Guia para Iniciantes](https://www.youtube.com/watch?v=sJzMCIWbZME)
 - [Atualizando seu perfil do GitHub com Actions](https://www.youtube.com/watch?v=-WtK2mF2Z_8)
-- [Oque é o Azure DevOps | Primeiros Passos](https://www.youtube.com/watch?v=I9dVHxbRDBw)
+- [Oque é o Azure DevOps | Guia para Iniciantes](https://www.youtube.com/watch?v=I9dVHxbRDBw)
 <!-- YOUTUBE:END -->
 
 
