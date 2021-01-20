@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [Azure Day](https://www.youtube.com/watch?v=cdAIyIvlLc8)
+- [Dá pra usar o GitHub na empresa?](https://www.youtube.com/watch?v=yhADsC_fHRQ)
+- [GitHub Actions e Terraform](https://www.youtube.com/watch?v=gVFt9jpgWmI)
 - [Como alterar o nome da branch principal no GitHub | Arruda Drops](https://www.youtube.com/watch?v=_UbbaJwAYwI)
 - [Implantando aplicações com @Azure DevOps | Guia para Iniciantes](https://www.youtube.com/watch?v=Po0vuWxZLf4)
-- [Oque é o @GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ)
-- [Criando um Pipeline de CI no @Azure DevOps   | Guia para Iniciantes](https://www.youtube.com/watch?v=zjKAG7JkPws)
-- [Oque é o @GitHub | Guia para Iniciantes](https://www.youtube.com/watch?v=Hs8AUYoCItI)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
