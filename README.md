@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [5 DEFEITOS DAS PESSOAS DESENVOLVEDORAS](https://www.youtube.com/watch?v=XtvT1NH2DwM)
 - [Publique seus pacotes no @GitHub | Guia de Iniciantes](https://www.youtube.com/watch?v=rfMyOBQiRUI)
 - [Criando um Multi-Stage Pipeline no @Azure DevOps | Guia para Iniciantes](https://www.youtube.com/watch?v=0zF6Hr1thx4)
 - [OQUE ACONTECEU COM O @GitHub  3 ANOS DEPOIS DA COMPRA PELA @Microsoft](https://www.youtube.com/watch?v=qon1X63-WMQ)
 - [GitHub Actions e Terraform](https://www.youtube.com/watch?v=gVFt9jpgWmI)
-- [Criando um pipeline de CD no  @GitHub | Guia de Iniciantes](https://www.youtube.com/watch?v=D7uaUOc6mpU)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
