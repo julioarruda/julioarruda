@@ -35,13 +35,13 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 
 <p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
+  <a href="https://github.com/julioarruda?tab=followers">
     <img src="https://img.shields.io/github/followers/julioarruda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/eddiejaoude">
+  <a href="http://twitter.com/julioarrudac">
     <img src="https://img.shields.io/twitter/follow/julioarrudac?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/user/julioarrudac?sub_confirmation=1">
+  <a href="http://youtube.com/c/julioarruda?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/4BYlkYtHNus?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
