@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-## [![Julio Arruda Header](https://raw.githubusercontent.com/julioarruda/julioarruda/master/capa.png)](https://youtube.com/user/julioarrudac)
+## [![Julio Arruda Header](https://raw.githubusercontent.com/julioarruda/julioarruda/master/fundo%20github.png)](https://youtube.com/user/julioarrudac)
 Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5002557?fullName=Julio%20%20Arruda) por 4 anos consecutivos, com contribuições focadas em DevOps.
 
 
