@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [O DIA QUE EU DERRUBEI O AMBIENTE DE PRODUÇÃO DO CLIENTE](https://www.youtube.com/watch?v=M3k0-A4H624)
 - [Cursos e Iniciativas do Canal | Ganhei um Troféu do GitHub](https://www.youtube.com/watch?v=R3rTtxe-_mg)
 - [PUBLICANDO PACOTES NO @Azure DevOps | GUIA PARA INICIANTES](https://www.youtube.com/watch?v=mjq1BX6cim0)
 - [TER UM @GitHub É MESMO IMPORTANTE????](https://www.youtube.com/watch?v=t4ddEwGceEY)
 - [Dá pra usar o GitHub na empresa?](https://www.youtube.com/watch?v=yhADsC_fHRQ)
-- [DÁ PRA FAZER DEPLOY COM @GitHub ACTIONS NO ONPREMISSES? | DÚVIDAS DOS INSCRITOS](https://www.youtube.com/watch?v=gfawpAzBWO8)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
