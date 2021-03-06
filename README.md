@@ -28,7 +28,6 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [Tech Saturday #18 - Azure Day](https://www.meetup.com/Net-Vale/events/275820341/)
 - [GitHub Zero to Hero](https://www.meetup.com/Net-Vale/events/276237438/)
 <!-- MEETUP:END -->
 
