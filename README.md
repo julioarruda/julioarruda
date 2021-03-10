@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [NÃO PERCA ESSA DICA DE USO DO @GitHub](https://www.youtube.com/watch?v=I_HYqkG_UG0)
 - [VOCÊ CONHECE A SÍNDROME DO IMPOSTOR???](https://www.youtube.com/watch?v=zvSoytV7jWE)
 - [Azure Day](https://www.youtube.com/watch?v=cdAIyIvlLc8)
 - [OQUE É COMPUTAÇÃO EM NUVEM????](https://www.youtube.com/watch?v=BCn21SoI73s)
 - [O DIA QUE EU DERRUBEI O AMBIENTE DE PRODUÇÃO DO CLIENTE](https://www.youtube.com/watch?v=M3k0-A4H624)
-- [Cursos e Iniciativas do Canal | Ganhei um Troféu do GitHub](https://www.youtube.com/watch?v=R3rTtxe-_mg)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
