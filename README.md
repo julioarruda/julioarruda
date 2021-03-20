@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [GitHub - Zero to Hero](https://www.youtube.com/watch?v=cT9gJdBns9s)
 - [É SEGURO DEIXAR MEU CÓDIGO NO @GitHub ???](https://www.youtube.com/watch?v=DYibZK9gz7o)
 - [CONHEÇA AS PRINCIPAIS SOFT SKILLS MAIS REQUISITADAS NAS EMPRESAS](https://www.youtube.com/watch?v=trLaPdNZJwg)
 - [GIT NÃO É O GITHUB!!!](https://www.youtube.com/watch?v=DLC3cAOlTns)
 - [NÃO PERCA ESSA DICA DE USO DO @GitHub](https://www.youtube.com/watch?v=I_HYqkG_UG0)
-- [VOCÊ CONHECE A SÍNDROME DO IMPOSTOR???](https://www.youtube.com/watch?v=zvSoytV7jWE)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
