@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [QUAIS OS BENEFÍCIOS DA COMPUTAÇÃO EM NUVEM???](https://www.youtube.com/watch?v=zrj36aV8VQw)
 - [TENHA UM PERFIL CAMPEÃO NO LINKEDIN](https://www.youtube.com/watch?v=E1_ALRuWg3A)
 - [GitHub - Zero to Hero](https://www.youtube.com/watch?v=cT9gJdBns9s)
 - [É SEGURO DEIXAR MEU CÓDIGO NO @GitHub ???](https://www.youtube.com/watch?v=DYibZK9gz7o)
 - [CONHEÇA AS PRINCIPAIS SOFT SKILLS MAIS REQUISITADAS NAS EMPRESAS](https://www.youtube.com/watch?v=trLaPdNZJwg)
-- [GIT NÃO É O GITHUB!!!](https://www.youtube.com/watch?v=DLC3cAOlTns)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
