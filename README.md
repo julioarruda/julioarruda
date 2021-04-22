@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [OQUE É A SINDROME DE BURNOUT E COMO EVITÁ-LA](https://www.youtube.com/watch?v=pPg8b1VYsNo)
 - [GANHE 20K EM 3 MESES!!!!](https://www.youtube.com/watch?v=K0IyhEE9aAU)
 - [A PLACA CHEGOU!!!](https://www.youtube.com/watch?v=AJ4L3xgq7AM)
 - [OQUE É PROCRASTINAÇÃO E COMO EVITAR](https://www.youtube.com/watch?v=02kH0U1Hdb0)
 - [NÃO ENCONTRO MINHA BRANCH NO GITHUB](https://www.youtube.com/watch?v=e6doXVQxhSU)
-- [ESTOU CANSADO DE REUNIÔES!!!!!! (FADIGA DO ZOOM)](https://www.youtube.com/watch?v=x40vOZ0xUyA)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
