@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [ASSINATURAS E GRUPOS DE GERENCIAMENTO DO AZURE](https://www.youtube.com/watch?v=-wYGVqMzcVA)
 - [DEPLOY VIA PULL REQUEST COM @GitHub ACTIONS COM LABELS?? | DÚVIDAS DOS INSCRITOS](https://www.youtube.com/watch?v=sp6tLs_W6Ec)
 - [6 DICAS PARA PESSOAS PROGRAMADORAS INICIANTES (+ DICA BÔNUS)](https://www.youtube.com/watch?v=iOuBl4XvGFQ)
 - [OQUE É A SINDROME DE BURNOUT E COMO EVITÁ-LA](https://www.youtube.com/watch?v=pPg8b1VYsNo)
 - [GANHE 20K EM 3 MESES!!!!](https://www.youtube.com/watch?v=K0IyhEE9aAU)
-- [A PLACA CHEGOU!!!](https://www.youtube.com/watch?v=AJ4L3xgq7AM)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
