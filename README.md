@@ -15,6 +15,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 - ⚡ Fato divertido: Sou violinista, e toco na orquestra da igreja que frequento, a Congregação Cristã no Brasil.
 
 
+### Não perca o [Curso Gratuito de Azure DevOps](https://github.com/julioarruda/Curso-Azure-DevOps)
+
+
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
