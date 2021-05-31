@@ -18,11 +18,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [CURSO AZURE DEVOPS GRATUITO!!!!](https://www.youtube.com/watch?v=fjcrPGVUxxw)
 - [Curso de Azure DevOps Hoje #shorts](https://www.youtube.com/watch?v=0ZoFY8eFh38)
 - [10 MIL INSCRITOS NO CANAL!!!!!](https://www.youtube.com/watch?v=3nXxs3gDojI)
 - [GRUPOS DE RECURSO E ZONAS DE DISPONIBILIDADE NO AZURE](https://www.youtube.com/watch?v=VqVDbREtRr4)
 - [ASSINATURAS E GRUPOS DE GERENCIAMENTO DO AZURE](https://www.youtube.com/watch?v=-wYGVqMzcVA)
-- [DEPLOY VIA PULL REQUEST COM @GitHub ACTIONS COM LABELS?? | DÚVIDAS DOS INSCRITOS](https://www.youtube.com/watch?v=sp6tLs_W6Ec)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
