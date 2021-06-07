@@ -21,7 +21,7 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
-- [ECONOMIZE SEU CONSUMO DO AZURE AKS](https://www.youtube.com/watch?v=uJbBE6WcZAg)
+- [ECONOMIZE SEU CONSUMO DO AZURE KUBERNETES SERVICES (AKS)](https://www.youtube.com/watch?v=uJbBE6WcZAg)
 - [Agentes gratuitos do @Azure DevOps e mineradores de Bitcoin #shorts](https://www.youtube.com/watch?v=EtRoemVUZ5A)
 - [CURSO AZURE DEVOPS GRATUITO!!!!](https://www.youtube.com/watch?v=fjcrPGVUxxw)
 - [Curso de Azure DevOps Hoje #shorts](https://www.youtube.com/watch?v=0ZoFY8eFh38)
