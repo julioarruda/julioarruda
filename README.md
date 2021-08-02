@@ -21,11 +21,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [HABEMUS LGPD](https://www.youtube.com/watch?v=JDnfyiE6zZ0)
 - [OQUE É GREEN CODING???](https://www.youtube.com/watch?v=pjHBV7V_S9I)
 - [RODANDO O VSCODE NO TABLET | GITHUB CODESPACES](https://www.youtube.com/watch?v=cxZ-Uk7Sub4)
 - [URL INSTANTANEA PARA SEU SITE ESTÁTICO COM GOSTATIC E GITHUB ACTIONS](https://www.youtube.com/watch?v=DSrxN6bswjE)
 - [EASTER EGGS DO GITHUB!!! | JÁ ACESSOU O JARDIM?](https://www.youtube.com/watch?v=BzEpE8igJ8k)
-- [ECONOMIZE SEU CONSUMO DO AZURE KUBERNETES SERVICES (AKS)](https://www.youtube.com/watch?v=uJbBE6WcZAg)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
