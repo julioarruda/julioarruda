@@ -21,11 +21,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [Tentaram roubar o meu canal!!!](https://www.youtube.com/watch?v=sGjqO5-jRBA)
 - [IF E ELSE NO @Azure DevOps | AZURE PIPELINES](https://www.youtube.com/watch?v=DA-RlC6Yl3g)
 - [Descobri oque é o cubo do #GitHub #shorts](https://www.youtube.com/watch?v=E09eV1le_rg)
 - [Olha só o detalhe desse fone que ganhei do #github](https://www.youtube.com/watch?v=Nwm9VSYRTkA)
 - [Abrindo a  caixa do @GitHub](https://www.youtube.com/watch?v=V_2LmTZmBgc)
-- [Desenvolvendo seu Microserviço em 30 minutos (DevPrime)](https://www.youtube.com/watch?v=rM4LfFfoPbY)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
