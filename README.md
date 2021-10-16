@@ -31,7 +31,7 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [[Online] Desenvolva seu Microservice em 30 minutos](https://www.meetup.com/Net-Vale/events/280157929/)
+- [Ransomware - Oque é e como se proteger](https://www.meetup.com/Net-Vale/events/281458057/)
 <!-- MEETUP:END -->
 
 
