@@ -21,11 +21,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [Usar Nuvem é mesmo seguro? #shorts #adobe #cloud](https://www.youtube.com/watch?v=tD6TIfnmsb8)
 - [Ransomware - Oque é e como se proteger](https://www.youtube.com/watch?v=jw1VTb2yn58)
 - [LIVRO GRATUITO PARA INICIANTES EM DESENVOLVIMENTO!!!](https://www.youtube.com/watch?v=F2Lsbt0As_c)
 - [Tentaram roubar o meu canal!!!](https://www.youtube.com/watch?v=sGjqO5-jRBA)
 - [IF E ELSE NO @Azure DevOps | AZURE PIPELINES](https://www.youtube.com/watch?v=DA-RlC6Yl3g)
-- [Descobri oque é o cubo do #GitHub #shorts](https://www.youtube.com/watch?v=E09eV1le_rg)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
