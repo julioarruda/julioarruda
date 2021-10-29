@@ -21,11 +21,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [Sobre a Live de Ransomware hoje do Canal. #shorts #ransomware #live #community #security](https://www.youtube.com/watch?v=auSd3v5TX7o)
 - [A nuvem pode ser usada para Backup? #shorts #cloud #adobe #mvpbr #mvpbuzz](https://www.youtube.com/watch?v=SuGyPpZUYxg)
 - [RODANDO PINBALL NO LINUX!!!](https://www.youtube.com/watch?v=U06ZNNcCaNI)
 - [Nuvem aumenta a produtividade?  #shorts #cloud #adobe](https://www.youtube.com/watch?v=c0d9u6bicDU)
 - [NOVA CRIAÇÃO DE CONTAS NO GITHUB!!](https://www.youtube.com/watch?v=HjZfUt-iLkg)
-- [Usar Nuvem é mesmo seguro? #shorts #adobe #cloud](https://www.youtube.com/watch?v=tD6TIfnmsb8)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
