@@ -31,7 +31,7 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [Ransomware - Oque é e como se proteger](https://www.meetup.com/Net-Vale/events/281458057/)
+- [GitHub + Nuget - Compartilhando soluções .NET de forma descomplicada](https://www.meetup.com/Net-Vale/events/281961094/)
 <!-- MEETUP:END -->
 
 
