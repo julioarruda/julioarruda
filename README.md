@@ -21,11 +21,11 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 ### 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START -->
+- [CONHECENDO A OWASP TOP 10](https://www.youtube.com/watch?v=WFzmw66v2sg)
 - [ASSINANDO COMMITS NO GITHUB COM YUBIKEY](https://www.youtube.com/watch?v=jOln7esoP08)
 - [GitHub + Nuget - Compartilhando soluções .NET de forma descomplicada](https://www.youtube.com/watch?v=6sX5yjYdv0o)
 - [SEU SSH MAIS SEGURO COM YUBIKEY](https://www.youtube.com/watch?v=tB4tgx4cDR8)
 - [Você precisa se preocupar com segurança usando Cloud? #shorts #seguranca #ransomware #cybersecurity](https://www.youtube.com/watch?v=BYz7bfNAf-E)
-- [SEU LOGIN NO GITHUB MAIS SEGURO COM YUBIKEY](https://www.youtube.com/watch?v=pnV8GJIWhtk)
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
