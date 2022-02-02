@@ -20,12 +20,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 ### 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START -->
-- [Já excluiu um repositório do @github por acidente? #shorts #github #devops #developers #mvpbr](https://www.youtube.com/watch?v=2l8977GMGLQ)
-- [CURSOS GRATUITOS DE AZURE DEVOPS E GITHUB](https://www.youtube.com/watch?v=Z8uJDt4KJ2o)
-- [É REAL O IPHONE DE R$230,00???](https://www.youtube.com/watch?v=nPIevjlwYe4)
-- [SUA SENHA É SEGURA?](https://www.youtube.com/watch?v=h84QhWngDtc)
-- [CONHECENDO A OWASP TOP 10](https://www.youtube.com/watch?v=WFzmw66v2sg)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2l8977GMGLQ"><img width="140px" src="https://i.ytimg.com/vi/2l8977GMGLQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2l8977GMGLQ">Já excluiu um repositório do @github por acidente? #shorts #github #devops #developers #mvpbr</a><br/>Feb 2, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Z8uJDt4KJ2o"><img width="140px" src="https://i.ytimg.com/vi/Z8uJDt4KJ2o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Z8uJDt4KJ2o">CURSOS GRATUITOS DE AZURE DEVOPS E GITHUB</a><br/>Jan 31, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=nPIevjlwYe4"><img width="140px" src="https://i.ytimg.com/vi/nPIevjlwYe4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nPIevjlwYe4">É REAL O IPHONE DE R$230,00???</a><br/>Jan 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=h84QhWngDtc"><img width="140px" src="https://i.ytimg.com/vi/h84QhWngDtc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=h84QhWngDtc">SUA SENHA É SEGURA?</a><br/>Dec 27, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WFzmw66v2sg"><img width="140px" src="https://i.ytimg.com/vi/WFzmw66v2sg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WFzmw66v2sg">CONHECENDO A OWASP TOP 10</a><br/>Dec 20, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
