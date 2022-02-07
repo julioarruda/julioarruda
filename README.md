@@ -20,7 +20,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 ### 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=io-aDEtH7xc"><img width="140px" src="https://i.ytimg.com/vi/io-aDEtH7xc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yzXgYoW23Ro"><img width="140px" src="https://i.ytimg.com/vi/yzXgYoW23Ro/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yzXgYoW23Ro">USE OS HOOKS DO GIT PARA GARANTIR AS POLITICAS DE BRANCH</a><br/>Feb 7, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=io-aDEtH7xc"><img width="140px" src="https://i.ytimg.com/vi/io-aDEtH7xc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=io-aDEtH7xc">Já conhecia essa funcionalidade do @github #shorts #github #developers #mvpbr #mvpbuzz #vscode</a><br/>Feb 3, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2l8977GMGLQ"><img width="140px" src="https://i.ytimg.com/vi/2l8977GMGLQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2l8977GMGLQ">Já excluiu um repositório do @github por acidente? #shorts #github #devops #developers #mvpbr</a><br/>Feb 2, 2022</td></tr></table>
@@ -28,8 +30,6 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 <td><a href="https://www.youtube.com/watch?v=Z8uJDt4KJ2o">CURSOS GRATUITOS DE AZURE DEVOPS E GITHUB</a><br/>Jan 31, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nPIevjlwYe4"><img width="140px" src="https://i.ytimg.com/vi/nPIevjlwYe4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nPIevjlwYe4">É REAL O IPHONE DE R$230,00???</a><br/>Jan 24, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=h84QhWngDtc"><img width="140px" src="https://i.ytimg.com/vi/h84QhWngDtc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=h84QhWngDtc">SUA SENHA É SEGURA?</a><br/>Dec 27, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### 🚀  Próximos Meetups
