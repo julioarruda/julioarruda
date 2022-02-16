@@ -35,7 +35,8 @@ PT-BR
 <!-- YOUTUBE:END -->
 
 EN-US
-<!-- YOUTUBEEN:START -->
+<!-- YOUTUBEEN:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wHo1ftsyzNE"><img width="140px" src="https://i.ytimg.com/vi/wHo1ftsyzNE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wHo1ftsyzNE">Is the comparison between GitHub and GitLab correct?</a><br/>Feb 16, 2022</td></tr></table>
 <!-- YOUTUBEEN:END -->
 
 ### 🚀  Próximos Meetups
