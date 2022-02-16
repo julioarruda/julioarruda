@@ -20,6 +20,8 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 ### 📺 Vídeos Recentes
 
+PT-BR
+
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YoZ9FiWSVzo"><img width="140px" src="https://i.ytimg.com/vi/YoZ9FiWSVzo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YoZ9FiWSVzo">Is the comparison between GitHub and GitLab correct?</a><br/>Feb 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VkEvtUBwdyg"><img width="140px" src="https://i.ytimg.com/vi/VkEvtUBwdyg/mqdefault.jpg"></a></td>
@@ -31,6 +33,10 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 <table><tr><td><a href="https://www.youtube.com/watch?v=2l8977GMGLQ"><img width="140px" src="https://i.ytimg.com/vi/2l8977GMGLQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2l8977GMGLQ">Já excluiu um repositório do @github por acidente? #shorts #github #devops #developers #mvpbr</a><br/>Feb 2, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
+
+EN-US
+<!-- YOUTUBEEN:START -->
+<!-- YOUTUBEEN:END -->
 
 ### 🚀  Próximos Meetups
 
