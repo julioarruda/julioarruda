@@ -22,7 +22,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vHLF3jlJgpc"><img width="140px" src="https://i.ytimg.com/vi/vHLF3jlJgpc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jhJ7y3GQvjE"><img width="140px" src="https://i.ytimg.com/vi/jhJ7y3GQvjE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jhJ7y3GQvjE">CRIANDO TEMPLATES DE PIPELINES NO GITHUB</a><br/>Feb 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vHLF3jlJgpc"><img width="140px" src="https://i.ytimg.com/vi/vHLF3jlJgpc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vHLF3jlJgpc">OQUE VOCÊ ACHOU DO MANIFESTO TECH?</a><br/>Feb 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qXHG9iLRtC8"><img width="140px" src="https://i.ytimg.com/vi/qXHG9iLRtC8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qXHG9iLRtC8">SERVIÇOS DE COMPUTAÇÃO NO AZURE | APP SERVICE</a><br/>Feb 21, 2022</td></tr></table>
@@ -30,8 +32,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=YoZ9FiWSVzo">Is the comparison between GitHub and GitLab correct?</a><br/>Feb 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VkEvtUBwdyg"><img width="140px" src="https://i.ytimg.com/vi/VkEvtUBwdyg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VkEvtUBwdyg">VOCÊ PREFERE TRABALHO REMOTO OU PRESENCIAL?</a><br/>Feb 14, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yzXgYoW23Ro"><img width="140px" src="https://i.ytimg.com/vi/yzXgYoW23Ro/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yzXgYoW23Ro">USE OS HOOKS DO GIT PARA GARANTIR AS POLITICAS DE BRANCH</a><br/>Feb 7, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
