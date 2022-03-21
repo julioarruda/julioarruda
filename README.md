@@ -22,7 +22,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AHU8XrWjBOs"><img width="140px" src="https://i.ytimg.com/vi/AHU8XrWjBOs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MQSXzGndZlE"><img width="140px" src="https://i.ytimg.com/vi/MQSXzGndZlE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MQSXzGndZlE">MINHA OPNIÂO SOBRE O LIVRO O PROJETO FENIX</a><br/>Mar 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AHU8XrWjBOs"><img width="140px" src="https://i.ytimg.com/vi/AHU8XrWjBOs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AHU8XrWjBOs">QUE TAL APRENDER GIT EM UM JOGO?</a><br/>Mar 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MhtKI2RuJLE"><img width="140px" src="https://i.ytimg.com/vi/MhtKI2RuJLE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MhtKI2RuJLE">É IMPORTANTE TER O GITHUB NO CURRICULO?</a><br/>Mar 7, 2022</td></tr></table>
@@ -30,8 +32,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=jhJ7y3GQvjE">CRIANDO TEMPLATES DE PIPELINES NO GITHUB</a><br/>Feb 28, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vHLF3jlJgpc"><img width="140px" src="https://i.ytimg.com/vi/vHLF3jlJgpc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vHLF3jlJgpc">OQUE VOCÊ ACHOU DO MANIFESTO TECH?</a><br/>Feb 23, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qXHG9iLRtC8"><img width="140px" src="https://i.ytimg.com/vi/qXHG9iLRtC8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qXHG9iLRtC8">SERVIÇOS DE COMPUTAÇÃO NO AZURE | APP SERVICE</a><br/>Feb 21, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
