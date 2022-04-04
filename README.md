@@ -24,7 +24,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=73iAwAm60F0"><img width="140px" src="https://i.ytimg.com/vi/73iAwAm60F0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YB0bVLpWJ50"><img width="140px" src="https://i.ytimg.com/vi/YB0bVLpWJ50/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YB0bVLpWJ50">📚 ONDE APRENDER .NET DE GRAÇA</a><br/>Apr 4, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=73iAwAm60F0"><img width="140px" src="https://i.ytimg.com/vi/73iAwAm60F0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=73iAwAm60F0">Incluindo uma chave SSH no seu GitHub #developer #github #ssh #programadores</a><br/>Mar 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hdrmMLf49tM"><img width="140px" src="https://i.ytimg.com/vi/hdrmMLf49tM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hdrmMLf49tM">Jogo do Dino no seu #vscode</a><br/>Mar 29, 2022</td></tr></table>
@@ -32,8 +34,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=MQSXzGndZlE">MINHA OPNIÂO SOBRE O LIVRO O PROJETO FENIX</a><br/>Mar 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AHU8XrWjBOs"><img width="140px" src="https://i.ytimg.com/vi/AHU8XrWjBOs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AHU8XrWjBOs">QUE TAL APRENDER GIT EM UM JOGO?</a><br/>Mar 14, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MhtKI2RuJLE"><img width="140px" src="https://i.ytimg.com/vi/MhtKI2RuJLE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MhtKI2RuJLE">É IMPORTANTE TER O GITHUB NO CURRICULO?</a><br/>Mar 7, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
