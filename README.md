@@ -24,7 +24,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mttx5ZpNU_s"><img width="140px" src="https://i.ytimg.com/vi/mttx5ZpNU_s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mGFmjckpxc4"><img width="140px" src="https://i.ytimg.com/vi/mGFmjckpxc4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mGFmjckpxc4">DevOps Mão na Massa | GitHub</a><br/>Apr 17, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mttx5ZpNU_s"><img width="140px" src="https://i.ytimg.com/vi/mttx5ZpNU_s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mttx5ZpNU_s">🤑 COMO PREVER O CUSTO DA INFRA NO PULL REQUEST DO GITHUB</a><br/>Apr 11, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YB0bVLpWJ50"><img width="140px" src="https://i.ytimg.com/vi/YB0bVLpWJ50/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YB0bVLpWJ50">📚 ONDE APRENDER .NET DE GRAÇA</a><br/>Apr 4, 2022</td></tr></table>
@@ -32,8 +34,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=73iAwAm60F0">Incluindo uma chave SSH no seu GitHub #developer #github #ssh #programadores</a><br/>Mar 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hdrmMLf49tM"><img width="140px" src="https://i.ytimg.com/vi/hdrmMLf49tM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hdrmMLf49tM">Jogo do Dino no seu #vscode</a><br/>Mar 29, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MQSXzGndZlE"><img width="140px" src="https://i.ytimg.com/vi/MQSXzGndZlE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MQSXzGndZlE">MINHA OPNIÂO SOBRE O LIVRO O PROJETO FENIX</a><br/>Mar 21, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
