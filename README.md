@@ -44,7 +44,7 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [DevOps Mão na Massa | GitHub](https://www.meetup.com/Net-Vale/events/283367215/)
+- [Resolvendo o Desafio do GitHub | Parte 1](https://www.meetup.com/Net-Vale/events/285323495/)
 <!-- MEETUP:END -->
 
 
