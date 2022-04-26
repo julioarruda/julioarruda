@@ -44,6 +44,7 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
+- [[Online|Gratuito] DevOps Experience - Edição 28 de Abril de 2022](https://www.meetup.com/Net-Vale/events/285525578/)
 - [Resolvendo o Desafio do GitHub | Parte 1](https://www.meetup.com/Net-Vale/events/285323495/)
 <!-- MEETUP:END -->
 
