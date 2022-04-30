@@ -24,9 +24,7 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Nhjaxoxkc2I"><img width="140px" src="https://i.ytimg.com/vi/Nhjaxoxkc2I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Nhjaxoxkc2I">Desafio GitHub | Parte 1</a><br/>Apr 28, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i6I0agdg4vw"><img width="140px" src="https://i.ytimg.com/vi/i6I0agdg4vw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=i6I0agdg4vw"><img width="140px" src="https://i.ytimg.com/vi/i6I0agdg4vw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i6I0agdg4vw">Olha só oque acabou de chegar do GitHub aqui pra mim.. 😍 #shorts #github #developers</a><br/>Apr 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Vdd1Ray2T1o"><img width="140px" src="https://i.ytimg.com/vi/Vdd1Ray2T1o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Vdd1Ray2T1o">MINHA OPNIÂO SOBRE O LIVRO &quot;O PROJETO UNICÓRNIO&quot;</a><br/>Apr 18, 2022</td></tr></table>
@@ -34,6 +32,8 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=mGFmjckpxc4">DevOps Mão na Massa | GitHub</a><br/>Apr 17, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mttx5ZpNU_s"><img width="140px" src="https://i.ytimg.com/vi/mttx5ZpNU_s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mttx5ZpNU_s">🤑 COMO PREVER O CUSTO DA INFRA NO PULL REQUEST DO GITHUB</a><br/>Apr 11, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=YB0bVLpWJ50"><img width="140px" src="https://i.ytimg.com/vi/YB0bVLpWJ50/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YB0bVLpWJ50">📚 ONDE APRENDER .NET DE GRAÇA</a><br/>Apr 4, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
