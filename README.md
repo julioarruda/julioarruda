@@ -44,7 +44,7 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [Resolvendo o Desafio do GitHub | Parte 1](https://www.meetup.com/Net-Vale/events/285323495/)
+- [[Online] Hospedando aplicações no Azure em 2022: containers, PaaS, serverless...](https://www.meetup.com/Net-Vale/events/285703883/)
 <!-- MEETUP:END -->
 
 
