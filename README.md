@@ -44,7 +44,7 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [[Online] Hospedando aplicações no Azure em 2022: containers, PaaS, serverless...](https://www.meetup.com/Net-Vale/events/285703883/)
+- [[Online]Event-Driven Architecture: entendendo Event Notification](https://www.meetup.com/Net-Vale/events/285839314/)
 <!-- MEETUP:END -->
 
 
