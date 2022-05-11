@@ -44,6 +44,7 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
+- [[Online] Desenvolvimento Back-End - primeiros passos: APIs REST, serverless...](https://www.meetup.com/Net-Vale/events/285847767/)
 - [[Online]Event-Driven Architecture: entendendo Event Notification](https://www.meetup.com/Net-Vale/events/285839314/)
 <!-- MEETUP:END -->
 
