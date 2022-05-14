@@ -45,7 +45,6 @@ EN-US
 
 <!-- MEETUP:START -->
 - [[Online]Criptografia para Desenvolvedores: visão geral, alternativas,cuidados...](https://www.meetup.com/Net-Vale/events/285861233/)
-- [[Online] Desenvolvimento Back-End - primeiros passos: APIs REST, serverless...](https://www.meetup.com/Net-Vale/events/285847767/)
 - [[Online]Event-Driven Architecture: entendendo Event Notification](https://www.meetup.com/Net-Vale/events/285839314/)
 <!-- MEETUP:END -->
 
