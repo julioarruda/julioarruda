@@ -44,7 +44,6 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [[Online]Kubernetes: dicas e truques para o dia a dia](https://www.meetup.com/Net-Vale/events/286041452/)
 - [[Online]Criptografia para Desenvolvedores: visão geral, alternativas,cuidados...](https://www.meetup.com/Net-Vale/events/285861233/)
 <!-- MEETUP:END -->
 
