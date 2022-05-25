@@ -24,7 +24,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WrdylaqrzIM"><img width="140px" src="https://i.ytimg.com/vi/WrdylaqrzIM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TQyftoXU7IA"><img width="140px" src="https://i.ytimg.com/vi/TQyftoXU7IA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TQyftoXU7IA">Você usa Wi-Fi publico?? 🤔 #dicas #arrudatips #segurança #segurancadainformacao #wifi #mitm</a><br/>May 25, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WrdylaqrzIM"><img width="140px" src="https://i.ytimg.com/vi/WrdylaqrzIM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WrdylaqrzIM">CRIANDO UM GITHUB SUMMARY</a><br/>May 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8BJYnYnZ7fk"><img width="140px" src="https://i.ytimg.com/vi/8BJYnYnZ7fk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8BJYnYnZ7fk">Local de trabalho infantilizado?? 🤔🤔 #developer #programacao #developerslife #devops #shorts</a><br/>May 20, 2022</td></tr></table>
@@ -32,8 +34,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=MPxICLEhVTE">Existia controle de versão antes do Git??</a><br/>May 16, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ykPirMg_D5s"><img width="140px" src="https://i.ytimg.com/vi/ykPirMg_D5s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ykPirMg_D5s">😮​ PAREI DE USAR SENHA NO MEU E-MAIL</a><br/>May 9, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7t4eEoa9Ruc"><img width="140px" src="https://i.ytimg.com/vi/7t4eEoa9Ruc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7t4eEoa9Ruc">CONHEÇA O AZURE TERRAFY E IMPORTE SEUS RECURSOS PARA O TERRAFORM</a><br/>May 2, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
