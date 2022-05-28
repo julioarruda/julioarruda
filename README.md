@@ -44,7 +44,6 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [[Online]Observabilidade e Monitoramento de Aplicações: logs, tracing, ... | pt 2](https://www.meetup.com/Net-Vale/events/286141437/)
 - [[Online]Criptografia para Desenvolvedores: visão geral, alternativas,cuidados...](https://www.meetup.com/Net-Vale/events/285861233/)
 <!-- MEETUP:END -->
 
