@@ -44,8 +44,8 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [[Online]PostgreSQL, MySQL, Cosmos DB...: indo além do Azure SQL na nuvem!](https://www.meetup.com/net-vale/events/286287995/)
 - [[Online]Criptografia para Desenvolvedores: visão geral, alternativas,cuidados...](https://www.meetup.com/net-vale/events/285861233/)
+- [[Online]PostgreSQL, MySQL, Cosmos DB...: indo além do Azure SQL na nuvem!](https://www.meetup.com/net-vale/events/286287995/)
 <!-- MEETUP:END -->
 
 
