@@ -44,7 +44,7 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
-- [[Online]Criptografia para Desenvolvedores: visão geral, alternativas,cuidados...](https://www.meetup.com/Net-Vale/events/285861233/)
+- [[Online]Criptografia para Desenvolvedores: visão geral, alternativas,cuidados...](https://www.meetup.com/net-vale/events/285861233/)
 <!-- MEETUP:END -->
 
 
