@@ -44,6 +44,7 @@ EN-US
 ### 🚀  Próximos Meetups
 
 <!-- MEETUP:START -->
+- [[Online] Certificações gratuitas da área de Dados no Azure: uma visão geral](https://www.meetup.com/net-vale/events/286316516/)
 - [[Online]PostgreSQL, MySQL, Cosmos DB...: indo além do Azure SQL na nuvem!](https://www.meetup.com/net-vale/events/286287995/)
 <!-- MEETUP:END -->
 
