@@ -24,7 +24,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LSvMrWwsLoM"><img width="140px" src="https://i.ytimg.com/vi/LSvMrWwsLoM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5SVvFM5VUE4"><img width="140px" src="https://i.ytimg.com/vi/5SVvFM5VUE4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5SVvFM5VUE4">Criando sua action do @github em menos de 1 minuto #shorts #devops</a><br/>Jun 5, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LSvMrWwsLoM"><img width="140px" src="https://i.ytimg.com/vi/LSvMrWwsLoM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LSvMrWwsLoM">O Home Office vai acabar????</a><br/>Jun 2, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZK66ak-DSFw"><img width="140px" src="https://i.ytimg.com/vi/ZK66ak-DSFw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZK66ak-DSFw">GitHub Sponsors disponível no Brasil!!! #github #sponsors #shorts</a><br/>Jun 1, 2022</td></tr></table>
@@ -32,8 +34,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=EDf5vzJpWl4">A pronúncia de VPN #shorts #vpn</a><br/>May 31, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TQyftoXU7IA"><img width="140px" src="https://i.ytimg.com/vi/TQyftoXU7IA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TQyftoXU7IA">Você usa Wi-Fi publico?? 🤔 #dicas #arrudatips #segurança #segurancadainformacao #wifi #mitm</a><br/>May 25, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WrdylaqrzIM"><img width="140px" src="https://i.ytimg.com/vi/WrdylaqrzIM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WrdylaqrzIM">CRIANDO UM GITHUB SUMMARY</a><br/>May 23, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
