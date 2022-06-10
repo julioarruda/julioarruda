@@ -44,11 +44,6 @@ EN-US
 <td><a href="https://www.youtube.com/watch?v=wHo1ftsyzNE">Is the comparison between GitHub and GitLab correct?</a><br/>Feb 16, 2022</td></tr></table>
 <!-- YOUTUBEEN:END -->
 
-### 🚀  Próximos Meetups
-
-<!-- MEETUP:START -->
-- [[Online]PostgreSQL, MySQL, Cosmos DB...: indo além do Azure SQL na nuvem!](https://www.meetup.com/net-vale/events/286287995/)
-<!-- MEETUP:END -->
 
 
 <p align="center">
