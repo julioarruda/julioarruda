@@ -27,7 +27,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-kLIiiQA1gc"><img width="140px" src="https://i.ytimg.com/vi/-kLIiiQA1gc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2HWm5yOQYtM"><img width="140px" src="https://i.ytimg.com/vi/2HWm5yOQYtM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2HWm5yOQYtM">Entendendo os comandos do #git #shorts</a><br/>Aug 17, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-kLIiiQA1gc"><img width="140px" src="https://i.ytimg.com/vi/-kLIiiQA1gc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-kLIiiQA1gc">Extensões para #vscode parte 3 #shorts</a><br/>Aug 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0WYZIqXtTdc"><img width="140px" src="https://i.ytimg.com/vi/0WYZIqXtTdc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0WYZIqXtTdc">Abrindo a caixa que chegou do @GitHub  #shorts #github</a><br/>Aug 13, 2022</td></tr></table>
@@ -35,8 +37,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=NwHzzrYkAnM">🤯​🤯​ ACESSANDO SEU VSCODE PELA INTERNET!!!! 🤯​🤯​</a><br/>Aug 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=X2-PB59EVes"><img width="140px" src="https://i.ytimg.com/vi/X2-PB59EVes/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X2-PB59EVes">GitHub Secret Scanning e Azure DevOps</a><br/>Aug 1, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yaw6m2Apy74"><img width="140px" src="https://i.ytimg.com/vi/yaw6m2Apy74/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yaw6m2Apy74">Prevendo custos da sua infra com #vscode e #infracost #shorts</a><br/>Jul 29, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
