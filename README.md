@@ -20,6 +20,8 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 ### Não perca o [Curso Gratuito de Azure DevOps](https://github.com/julioarruda/Curso-Azure-DevOps)
 
+## Não perca o [Curso GitHub Mão na Massa](https://github.com/github-mao-na-massa/curso-github-mao-na-massa)
+
 ### Entre no nosso [Canal do Discord](https://discord.gg/HAr9WFYkpB)
 
 
