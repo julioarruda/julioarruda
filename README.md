@@ -29,7 +29,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=apMAot2LEpM"><img width="140px" src="https://i.ytimg.com/vi/apMAot2LEpM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ABtv7-QJ2c4"><img width="140px" src="https://i.ytimg.com/vi/ABtv7-QJ2c4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ABtv7-QJ2c4">Conhecendo seu repositório | GitHub Mão na Massa</a><br/>Oct 10, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=apMAot2LEpM"><img width="140px" src="https://i.ytimg.com/vi/apMAot2LEpM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=apMAot2LEpM">Participe do #DevOpsExperience</a><br/>Sep 28, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oxhJ1v2tvtc"><img width="140px" src="https://i.ytimg.com/vi/oxhJ1v2tvtc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oxhJ1v2tvtc">Abrindo a Caixa do GitHub | GitHub Stars</a><br/>Sep 26, 2022</td></tr></table>
@@ -37,8 +39,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=qm3t9Nu7Psg">Seu projeto tem documentação? 😂 #shorts #developer #programação</a><br/>Sep 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WD92Tg3fobc"><img width="140px" src="https://i.ytimg.com/vi/WD92Tg3fobc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WD92Tg3fobc">Assinando Commits com Chave SSH | GitHub Mão na Massa</a><br/>Sep 19, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KZdBdpdfEfE"><img width="140px" src="https://i.ytimg.com/vi/KZdBdpdfEfE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KZdBdpdfEfE">Conhecendo sua conta do GitHub | GitHub Mão na Massa</a><br/>Sep 12, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
