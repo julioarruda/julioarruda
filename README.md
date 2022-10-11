@@ -29,7 +29,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mwzbGIl3opk"><img width="140px" src="https://i.ytimg.com/vi/mwzbGIl3opk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-rVq0yluMfw"><img width="140px" src="https://i.ytimg.com/vi/-rVq0yluMfw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-rVq0yluMfw">Pets no VSCode</a><br/>Oct 11, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mwzbGIl3opk"><img width="140px" src="https://i.ytimg.com/vi/mwzbGIl3opk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mwzbGIl3opk">Como iniciar um novo repositório Git</a><br/>Oct 10, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ABtv7-QJ2c4"><img width="140px" src="https://i.ytimg.com/vi/ABtv7-QJ2c4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ABtv7-QJ2c4">Conhecendo seu repositório | GitHub Mão na Massa</a><br/>Oct 10, 2022</td></tr></table>
@@ -37,8 +39,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=apMAot2LEpM">Participe do #DevOpsExperience</a><br/>Sep 28, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oxhJ1v2tvtc"><img width="140px" src="https://i.ytimg.com/vi/oxhJ1v2tvtc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oxhJ1v2tvtc">Abrindo a Caixa do GitHub | GitHub Stars</a><br/>Sep 26, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qm3t9Nu7Psg"><img width="140px" src="https://i.ytimg.com/vi/qm3t9Nu7Psg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qm3t9Nu7Psg">Seu projeto tem documentação? 😂 #shorts #developer #programação</a><br/>Sep 23, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
