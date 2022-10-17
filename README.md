@@ -29,7 +29,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GEql1E7As88"><img width="140px" src="https://i.ytimg.com/vi/GEql1E7As88/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tHBV8FuZd6M"><img width="140px" src="https://i.ytimg.com/vi/tHBV8FuZd6M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tHBV8FuZd6M">Conhecendo Organizações | GitHub Mão na Massa</a><br/>Oct 17, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GEql1E7As88"><img width="140px" src="https://i.ytimg.com/vi/GEql1E7As88/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GEql1E7As88">Mostrando pro Git que temos alterações no repositório</a><br/>Oct 12, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-rVq0yluMfw"><img width="140px" src="https://i.ytimg.com/vi/-rVq0yluMfw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-rVq0yluMfw">Pets no VSCode</a><br/>Oct 11, 2022</td></tr></table>
@@ -37,8 +39,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=mwzbGIl3opk">Como iniciar um novo repositório Git</a><br/>Oct 10, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ABtv7-QJ2c4"><img width="140px" src="https://i.ytimg.com/vi/ABtv7-QJ2c4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ABtv7-QJ2c4">Conhecendo seu repositório | GitHub Mão na Massa</a><br/>Oct 10, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=apMAot2LEpM"><img width="140px" src="https://i.ytimg.com/vi/apMAot2LEpM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=apMAot2LEpM">Participe do #DevOpsExperience</a><br/>Sep 28, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
