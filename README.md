@@ -29,7 +29,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DPGj4ferbvU"><img width="140px" src="https://i.ytimg.com/vi/DPGj4ferbvU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=y7e3ErKNfvU"><img width="140px" src="https://i.ytimg.com/vi/y7e3ErKNfvU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=y7e3ErKNfvU">ARMAZENANDO SUA CHAVE SSH EM UM VAULT | GITHUB MÃO NA MASSA</a><br/>Oct 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DPGj4ferbvU"><img width="140px" src="https://i.ytimg.com/vi/DPGj4ferbvU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DPGj4ferbvU">Fazendo um commit no repositório Git</a><br/>Oct 20, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_MIsgaaHL8E"><img width="140px" src="https://i.ytimg.com/vi/_MIsgaaHL8E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_MIsgaaHL8E">Entendendo o Status do repositório Git</a><br/>Oct 18, 2022</td></tr></table>
@@ -37,8 +39,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=tHBV8FuZd6M">Conhecendo Organizações | GitHub Mão na Massa</a><br/>Oct 17, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GEql1E7As88"><img width="140px" src="https://i.ytimg.com/vi/GEql1E7As88/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GEql1E7As88">Mostrando pro Git que temos alterações no repositório</a><br/>Oct 12, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-rVq0yluMfw"><img width="140px" src="https://i.ytimg.com/vi/-rVq0yluMfw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-rVq0yluMfw">Pets no VSCode</a><br/>Oct 11, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
