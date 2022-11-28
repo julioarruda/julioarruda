@@ -29,7 +29,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lcuobWOP40Y"><img width="140px" src="https://i.ytimg.com/vi/lcuobWOP40Y/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=COGuIxyQV74"><img width="140px" src="https://i.ytimg.com/vi/COGuIxyQV74/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=COGuIxyQV74">Conhecendo o GitHub em São Francisco - Califórnia | GitHub Universe</a><br/>Nov 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lcuobWOP40Y"><img width="140px" src="https://i.ytimg.com/vi/lcuobWOP40Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lcuobWOP40Y">Tudo sobre GitHub Actions | GitHub Mão na Massa</a><br/>Nov 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cdt69anc1sU"><img width="140px" src="https://i.ytimg.com/vi/cdt69anc1sU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cdt69anc1sU">Novidades do GitHub Universe</a><br/>Nov 9, 2022</td></tr></table>
@@ -37,8 +39,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=V5V5Sb_T03Y">Como ganhar um ingresso para a Campus Party</a><br/>Nov 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KR6A8iEorHk"><img width="140px" src="https://i.ytimg.com/vi/KR6A8iEorHk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KR6A8iEorHk">GERENCIANDO DEMANDAS NO @GitHub  | GITHUB MÃO NA MASSA</a><br/>Oct 31, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=y7e3ErKNfvU"><img width="140px" src="https://i.ytimg.com/vi/y7e3ErKNfvU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y7e3ErKNfvU">ARMAZENANDO SUA CHAVE SSH EM UM VAULT | GITHUB MÃO NA MASSA</a><br/>Oct 24, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
