@@ -29,7 +29,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T9HUeV4ADxQ"><img width="140px" src="https://i.ytimg.com/vi/T9HUeV4ADxQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ccb91tlx7iw"><img width="140px" src="https://i.ytimg.com/vi/Ccb91tlx7iw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ccb91tlx7iw">Oque é o GitHub Packages? | GitHub Mão Na Massa</a><br/>Dec 26, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=T9HUeV4ADxQ"><img width="140px" src="https://i.ytimg.com/vi/T9HUeV4ADxQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=T9HUeV4ADxQ">SEU VSCODE NO IPAD PELA INTERNET | REMOTE TUNNELS</a><br/>Dec 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xFfHoBXdchg"><img width="140px" src="https://i.ytimg.com/vi/xFfHoBXdchg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xFfHoBXdchg">SEUS PIPELINES ESTÃO VULNERÁVEIS??</a><br/>Dec 12, 2022</td></tr></table>
@@ -37,8 +39,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=t6LyOl_cF-s">NOVIDADES NO GITHUB CODESPACES</a><br/>Dec 5, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=COGuIxyQV74"><img width="140px" src="https://i.ytimg.com/vi/COGuIxyQV74/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=COGuIxyQV74">Conhecendo o GitHub em São Francisco - Califórnia | GitHub Universe</a><br/>Nov 28, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lcuobWOP40Y"><img width="140px" src="https://i.ytimg.com/vi/lcuobWOP40Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lcuobWOP40Y">Tudo sobre GitHub Actions | GitHub Mão na Massa</a><br/>Nov 21, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
