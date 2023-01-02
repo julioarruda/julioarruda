@@ -29,7 +29,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TiPGJUIBpCk"><img width="140px" src="https://i.ytimg.com/vi/TiPGJUIBpCk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5vvzNWIO4AE"><img width="140px" src="https://i.ytimg.com/vi/5vvzNWIO4AE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5vvzNWIO4AE">Criando sua Conta no Azure e configurando no GitHub | GitHub Mão na Massa</a><br/>Jan 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TiPGJUIBpCk"><img width="140px" src="https://i.ytimg.com/vi/TiPGJUIBpCk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TiPGJUIBpCk">Você sabe oque é #gitflow ?</a><br/>Dec 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ccb91tlx7iw"><img width="140px" src="https://i.ytimg.com/vi/Ccb91tlx7iw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ccb91tlx7iw">Oque é o GitHub Packages? | GitHub Mão Na Massa</a><br/>Dec 26, 2022</td></tr></table>
@@ -37,8 +39,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=T9HUeV4ADxQ">SEU VSCODE NO IPAD PELA INTERNET | REMOTE TUNNELS</a><br/>Dec 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xFfHoBXdchg"><img width="140px" src="https://i.ytimg.com/vi/xFfHoBXdchg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xFfHoBXdchg">SEUS PIPELINES ESTÃO VULNERÁVEIS??</a><br/>Dec 12, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=t6LyOl_cF-s"><img width="140px" src="https://i.ytimg.com/vi/t6LyOl_cF-s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t6LyOl_cF-s">NOVIDADES NO GITHUB CODESPACES</a><br/>Dec 5, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
