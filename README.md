@@ -29,7 +29,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tT0fmuzvKJ4"><img width="140px" src="https://i.ytimg.com/vi/tT0fmuzvKJ4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AukXdcB2Rt8"><img width="140px" src="https://i.ytimg.com/vi/AukXdcB2Rt8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AukXdcB2Rt8">REPOSITÓRIOS REMOTOS NO GIT | GIT MÃO NA MASSA</a><br/>Jan 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tT0fmuzvKJ4"><img width="140px" src="https://i.ytimg.com/vi/tT0fmuzvKJ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tT0fmuzvKJ4">COMEÇANDO A TRABALHAR COM GIT | GIT MÃO NA MASSA</a><br/>Jan 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DoQ0HW0OtA0"><img width="140px" src="https://i.ytimg.com/vi/DoQ0HW0OtA0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DoQ0HW0OtA0">GIT E CONTROLE DE VERSÃO | GIT MÃO NA MASSA</a><br/>Jan 9, 2023</td></tr></table>
@@ -37,8 +39,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=5vvzNWIO4AE">Criando sua Conta no Azure e configurando no GitHub | GitHub Mão na Massa</a><br/>Jan 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TiPGJUIBpCk"><img width="140px" src="https://i.ytimg.com/vi/TiPGJUIBpCk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TiPGJUIBpCk">Você sabe oque é #gitflow ?</a><br/>Dec 27, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ccb91tlx7iw"><img width="140px" src="https://i.ytimg.com/vi/Ccb91tlx7iw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ccb91tlx7iw">Oque é o GitHub Packages? | GitHub Mão Na Massa</a><br/>Dec 26, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
