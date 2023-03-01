@@ -4,15 +4,13 @@
 Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5002557?fullName=Julio%20%20Arruda) por 6 anos consecutivos, com contribuições focadas em DevOps.
 
 
-- ⭐ Sou [GitHub Star](https://stars.github.com/profiles/julioarruda) e [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5002557?fullName=Julio%20%20Arruda)
+- ⭐ Sou o Primeiro [GitHub Star](https://stars.github.com/profiles/julioarruda) do Brasil e [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5002557?fullName=Julio%20%20Arruda) desde 2017.
 
 - 🔭 Atualmente atuo como Senior Cloud & DevOps Solutions Architect na @GFT
 
-- 👯 Compartilho conteúdos sobre DevOps em meu [Canal do Youtube](https://youtube.com/user/julioarrudac)
+- 👯 Compartilho conteúdos sobre DevOps em meu [Canal do Youtube](https://youtube.com/@julioarruda)
 
 - 💬 Pergunte-me sobre Azure DevOps e GitHub que ficarei feliz em ajudar.
-
-- ⚡ Fato divertido: Sou violinista, e toco na orquestra da igreja que frequento, a Congregação Cristã no Brasil.
 
 
 
@@ -22,7 +20,6 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 ## Não perca o [Curso GitHub Mão na Massa](https://github.com/github-mao-na-massa/curso-github-mao-na-massa)
 
-### Entre no nosso [Canal do Discord](https://discord.gg/HAr9WFYkpB)
 
 
 ### 📺 Vídeos Recentes
