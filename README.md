@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rurL4Kr1EhI"><img width="140px" src="https://i.ytimg.com/vi/rurL4Kr1EhI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KaLDxqkIvVo"><img width="140px" src="https://i.ytimg.com/vi/KaLDxqkIvVo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KaLDxqkIvVo">ChatGPT no seu VSCode | GitHub Copilot</a><br/>Apr 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rurL4Kr1EhI"><img width="140px" src="https://i.ytimg.com/vi/rurL4Kr1EhI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rurL4Kr1EhI">Organizando Tarefas no Azure Boards | Azure DevOps Mão na Massa</a><br/>Mar 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Oix88tEcYLk"><img width="140px" src="https://i.ytimg.com/vi/Oix88tEcYLk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Oix88tEcYLk">Conhecendo o Azure Repos | Azure DevOps Mão na Massa</a><br/>Mar 6, 2023</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=rF2A2q8fpR8">Configurações de Organização no Azure DevOps | Azure DevOps Mão na Massa</a><br/>Feb 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=acsTOfNJN3I"><img width="140px" src="https://i.ytimg.com/vi/acsTOfNJN3I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=acsTOfNJN3I">Oque é o Azure DevOps? | Azure DevOps Mão na Massa</a><br/>Feb 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Cm-biDiU2cc"><img width="140px" src="https://i.ytimg.com/vi/Cm-biDiU2cc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Cm-biDiU2cc">IGNORANDO ARQUIVOS NO GIT | GIT MÃO NA MASSA</a><br/>Feb 6, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
