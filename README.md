@@ -27,15 +27,15 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 PT-BR
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KaLDxqkIvVo"><img width="140px" src="https://i.ytimg.com/vi/KaLDxqkIvVo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KaLDxqkIvVo">ChatGPT no seu VSCode | GitHub Copilot</a><br/>Apr 3, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=KaLDxqkIvVo">Descubra todas as possibilidades do GitHub Copilot com ChatGTP!</a><br/>Apr 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rurL4Kr1EhI"><img width="140px" src="https://i.ytimg.com/vi/rurL4Kr1EhI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rurL4Kr1EhI">Organizando Tarefas no Azure Boards | Azure DevOps Mão na Massa</a><br/>Mar 27, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=rurL4Kr1EhI">Organize seu trabalho de forma não mecânica - Saiba tudo sobre o Azure Boards!</a><br/>Mar 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Oix88tEcYLk"><img width="140px" src="https://i.ytimg.com/vi/Oix88tEcYLk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Oix88tEcYLk">Conhecendo o Azure Repos | Azure DevOps Mão na Massa</a><br/>Mar 6, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Oix88tEcYLk">Domine o Azure Repos com o Azure DevOps Mão na Massa!</a><br/>Mar 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rF2A2q8fpR8"><img width="140px" src="https://i.ytimg.com/vi/rF2A2q8fpR8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rF2A2q8fpR8">Configurações de Organização no Azure DevOps | Azure DevOps Mão na Massa</a><br/>Feb 27, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=rF2A2q8fpR8">Otimize suas Configurações Organizacionais no Azure DevOps</a><br/>Feb 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=acsTOfNJN3I"><img width="140px" src="https://i.ytimg.com/vi/acsTOfNJN3I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=acsTOfNJN3I">Oque é o Azure DevOps? | Azure DevOps Mão na Massa</a><br/>Feb 20, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=acsTOfNJN3I">Descubra o Azure DevOps: o Passo a Passo para usar o melhor em automação!</a><br/>Feb 20, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
