@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=y8-gNzmjkz0"><img width="140px" src="https://i.ytimg.com/vi/y8-gNzmjkz0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g6rHgksAQ8c"><img width="140px" src="https://i.ytimg.com/vi/g6rHgksAQ8c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g6rHgksAQ8c">Colocando uma I.A no seu terminal | GitHub Copiliot X</a><br/>May 8, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=y8-gNzmjkz0"><img width="140px" src="https://i.ytimg.com/vi/y8-gNzmjkz0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y8-gNzmjkz0">Padronizando seus repositórios no GitHub</a><br/>Apr 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NBguI2LK0xs"><img width="140px" src="https://i.ytimg.com/vi/NBguI2LK0xs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NBguI2LK0xs">Azure Pipelines: Crie Builds Clássicos e YAML | Azure DevOps Mão na Massa</a><br/>Apr 17, 2023</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=KaLDxqkIvVo">Descubra todas as possibilidades do GitHub Copilot com ChatGTP!</a><br/>Apr 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rurL4Kr1EhI"><img width="140px" src="https://i.ytimg.com/vi/rurL4Kr1EhI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rurL4Kr1EhI">Organize seu trabalho de forma não mecânica - Saiba tudo sobre o Azure Boards!</a><br/>Mar 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Oix88tEcYLk"><img width="140px" src="https://i.ytimg.com/vi/Oix88tEcYLk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Oix88tEcYLk">Domine o Azure Repos com o Azure DevOps Mão na Massa!</a><br/>Mar 6, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
