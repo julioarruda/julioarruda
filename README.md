@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cWBq-cHnFyw"><img width="140px" src="https://i.ytimg.com/vi/cWBq-cHnFyw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aezsqluwCyo"><img width="140px" src="https://i.ytimg.com/vi/aezsqluwCyo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aezsqluwCyo">PARE DE USAR SENHA NO GITHUB</a><br/>Jul 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cWBq-cHnFyw"><img width="140px" src="https://i.ytimg.com/vi/cWBq-cHnFyw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cWBq-cHnFyw">Suas Credenciais seguras no GitHub com 1Password</a><br/>Jul 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=H0MlMZRruIE"><img width="140px" src="https://i.ytimg.com/vi/H0MlMZRruIE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H0MlMZRruIE">Criando seu ChatGPT Privado no Azure</a><br/>Jul 10, 2023</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=ttfdiURgrgQ">Conversando com seu VSCode | GitHub Copilot</a><br/>Jun 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=obAstVNFMxA"><img width="140px" src="https://i.ytimg.com/vi/obAstVNFMxA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=obAstVNFMxA">As IA’s são nossas aliadas no desenvolvimento de software?</a><br/>Jun 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=g6rHgksAQ8c"><img width="140px" src="https://i.ytimg.com/vi/g6rHgksAQ8c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g6rHgksAQ8c">Colocando uma I.A no seu terminal | GitHub Copiliot X</a><br/>May 8, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
