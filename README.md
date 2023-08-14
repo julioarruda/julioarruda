@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nU2PZIoBd6k"><img width="140px" src="https://i.ytimg.com/vi/nU2PZIoBd6k/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tBeOatFLMOw"><img width="140px" src="https://i.ytimg.com/vi/tBeOatFLMOw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tBeOatFLMOw">GitHub no Gartner 2023</a><br/>Aug 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=nU2PZIoBd6k"><img width="140px" src="https://i.ytimg.com/vi/nU2PZIoBd6k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nU2PZIoBd6k">Dá pra confiar no GitHub Copilot?</a><br/>Aug 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Yvx-U25aq0g"><img width="140px" src="https://i.ytimg.com/vi/Yvx-U25aq0g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yvx-U25aq0g">DEVO DEMITIR QUEM DERRUBA O AMBIENTE??</a><br/>Aug 1, 2023</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=aezsqluwCyo">PARE DE USAR SENHA NO GITHUB</a><br/>Jul 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cWBq-cHnFyw"><img width="140px" src="https://i.ytimg.com/vi/cWBq-cHnFyw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cWBq-cHnFyw">Suas Credenciais seguras no GitHub com 1Password</a><br/>Jul 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=H0MlMZRruIE"><img width="140px" src="https://i.ytimg.com/vi/H0MlMZRruIE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=H0MlMZRruIE">Criando seu ChatGPT Privado no Azure</a><br/>Jul 10, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
