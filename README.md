@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5OsuhYUHP-0"><img width="140px" src="https://i.ytimg.com/vi/5OsuhYUHP-0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zhc3-pLGE6U"><img width="140px" src="https://i.ytimg.com/vi/zhc3-pLGE6U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zhc3-pLGE6U">O GitHub Copilot Mudou!!!!</a><br/>Nov 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5OsuhYUHP-0"><img width="140px" src="https://i.ytimg.com/vi/5OsuhYUHP-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5OsuhYUHP-0">IDX o VSCode com IA do Google</a><br/>Aug 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=z74-XICKLdY"><img width="140px" src="https://i.ytimg.com/vi/z74-XICKLdY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z74-XICKLdY">Será o fim do Terraform?</a><br/>Aug 23, 2023</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=tBeOatFLMOw">GitHub no Gartner 2023</a><br/>Aug 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nU2PZIoBd6k"><img width="140px" src="https://i.ytimg.com/vi/nU2PZIoBd6k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nU2PZIoBd6k">Dá pra confiar no GitHub Copilot?</a><br/>Aug 7, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Yvx-U25aq0g"><img width="140px" src="https://i.ytimg.com/vi/Yvx-U25aq0g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Yvx-U25aq0g">DEVO DEMITIR QUEM DERRUBA O AMBIENTE??</a><br/>Aug 1, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
