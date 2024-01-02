@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8_BHLzZllmI"><img width="140px" src="https://i.ytimg.com/vi/8_BHLzZllmI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Rakk21I4_1Q"><img width="140px" src="https://i.ytimg.com/vi/Rakk21I4_1Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Rakk21I4_1Q">O GitHub tem certificações ????</a><br/>Jan 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8_BHLzZllmI"><img width="140px" src="https://i.ytimg.com/vi/8_BHLzZllmI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8_BHLzZllmI">Cloud da Magalu, será que vai dar certo?</a><br/>Dec 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GKZ29nvJL6o"><img width="140px" src="https://i.ytimg.com/vi/GKZ29nvJL6o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GKZ29nvJL6o">Atualizações no GitHub Copilot</a><br/>Dec 1, 2023</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=zhc3-pLGE6U">O GitHub Copilot Mudou!!!!</a><br/>Nov 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5OsuhYUHP-0"><img width="140px" src="https://i.ytimg.com/vi/5OsuhYUHP-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5OsuhYUHP-0">IDX o VSCode com IA do Google</a><br/>Aug 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=z74-XICKLdY"><img width="140px" src="https://i.ytimg.com/vi/z74-XICKLdY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=z74-XICKLdY">Será o fim do Terraform?</a><br/>Aug 23, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
