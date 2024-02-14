@@ -15,7 +15,7 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 
 
-
+### Conheçam o Curso [GitHub Actions: Formação Básica](https://www.linkedin.com/learning/github-actions-formacao-basica/) no LinkedIn Learning!!
 ### Não perca o [Curso Gratuito de Azure DevOps](https://github.com/julioarruda/Curso-Azure-DevOps)
 
 ## Não perca o [Curso GitHub Mão na Massa](https://github.com/github-mao-na-massa/curso-github-mao-na-massa)
