@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aFt27OV-RqQ"><img width="140px" src="https://i.ytimg.com/vi/aFt27OV-RqQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aFt27OV-RqQ">Oque é esse negocio de GenAI?</a><br/>Feb 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Rakk21I4_1Q"><img width="140px" src="https://i.ytimg.com/vi/Rakk21I4_1Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Rakk21I4_1Q">O GitHub tem certificações ????</a><br/>Jan 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8_BHLzZllmI"><img width="140px" src="https://i.ytimg.com/vi/8_BHLzZllmI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8_BHLzZllmI">Cloud da Magalu, será que vai dar certo?</a><br/>Dec 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GKZ29nvJL6o"><img width="140px" src="https://i.ytimg.com/vi/GKZ29nvJL6o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GKZ29nvJL6o">Atualizações no GitHub Copilot</a><br/>Dec 1, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zhc3-pLGE6U"><img width="140px" src="https://i.ytimg.com/vi/zhc3-pLGE6U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zhc3-pLGE6U">O GitHub Copilot Mudou!!!!</a><br/>Nov 23, 2023</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K33k2G6XXvI"><img width="140px" src="https://i.ytimg.com/vi/K33k2G6XXvI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=K33k2G6XXvI">GitHub Copilot Trust Center: Proteção da Privacidade e Segurança do código</a><br/>Feb 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6vdeAaPuykQ"><img width="140px" src="https://i.ytimg.com/vi/6vdeAaPuykQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6vdeAaPuykQ">GitHub Copilot: Coleta de Dados Pessoais e Funcionamento Explorados</a><br/>Feb 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DEtwhEah-C4"><img width="140px" src="https://i.ytimg.com/vi/DEtwhEah-C4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DEtwhEah-C4">GitHub Trust Center: Segurança e Confiança para Desenvolvedores</a><br/>Feb 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0Vl-dkfnEs8"><img width="140px" src="https://i.ytimg.com/vi/0Vl-dkfnEs8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0Vl-dkfnEs8">Proteja seu código com a IA: Soluções de Segurança e Criptografia no Azure</a><br/>Feb 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6IqCESnoS6Q"><img width="140px" src="https://i.ytimg.com/vi/6IqCESnoS6Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6IqCESnoS6Q">GitHub Copilot: A revolução da programação inteligente</a><br/>Feb 28, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
