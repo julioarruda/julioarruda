@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=B6X5EXbUDpk"><img width="140px" src="https://i.ytimg.com/vi/B6X5EXbUDpk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=C9X7Hyi2gtA"><img width="140px" src="https://i.ytimg.com/vi/C9X7Hyi2gtA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C9X7Hyi2gtA">Como configurar seu pipeline de desenvolvimento para otimizar seu ambiente de trabalho</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4lHQiswiszw"><img width="140px" src="https://i.ytimg.com/vi/4lHQiswiszw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4lHQiswiszw">Automatizando seu Repositório com GitHub Actions: Aprenda como interagir com issues, pull request</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=U8gA3zJgGmo"><img width="140px" src="https://i.ytimg.com/vi/U8gA3zJgGmo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=U8gA3zJgGmo">Como usar o GitHub Actions no seu repositório público</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=B6X5EXbUDpk"><img width="140px" src="https://i.ytimg.com/vi/B6X5EXbUDpk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B6X5EXbUDpk">Pipeline: Monitorando e Visualizando Execuções em Tempo Real</a><br/>Mar 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jt6VMIY2BbU"><img width="140px" src="https://i.ytimg.com/vi/jt6VMIY2BbU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jt6VMIY2BbU">Como criar um pipeline de compilação eficiente no .NET</a><br/>Mar 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wY7sH6bLVh0"><img width="140px" src="https://i.ytimg.com/vi/wY7sH6bLVh0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wY7sH6bLVh0">O Poder dos Reusable Workflows: Centralizando e Simplificando Seu Processo</a><br/>Mar 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9Ae9kTAPCEA"><img width="140px" src="https://i.ytimg.com/vi/9Ae9kTAPCEA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9Ae9kTAPCEA">Como fazer o fluxo de deploy da sua aplicação | Tutorial</a><br/>Mar 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0x02HtNh0qc"><img width="140px" src="https://i.ytimg.com/vi/0x02HtNh0qc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0x02HtNh0qc">Desvendando o uso de eventos e pipelines no GitHub</a><br/>Mar 1, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
