@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K33k2G6XXvI"><img width="140px" src="https://i.ytimg.com/vi/K33k2G6XXvI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=K33k2G6XXvI">GitHub Copilot Trust Center: Proteção da Privacidade e Segurança do código</a><br/>Feb 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6vdeAaPuykQ"><img width="140px" src="https://i.ytimg.com/vi/6vdeAaPuykQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6vdeAaPuykQ">GitHub Copilot: Coleta de Dados Pessoais e Funcionamento Explorados</a><br/>Feb 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DEtwhEah-C4"><img width="140px" src="https://i.ytimg.com/vi/DEtwhEah-C4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DEtwhEah-C4">GitHub Trust Center: Segurança e Confiança para Desenvolvedores</a><br/>Feb 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0Vl-dkfnEs8"><img width="140px" src="https://i.ytimg.com/vi/0Vl-dkfnEs8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0Vl-dkfnEs8">Proteja seu código com a IA: Soluções de Segurança e Criptografia no Azure</a><br/>Feb 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6IqCESnoS6Q"><img width="140px" src="https://i.ytimg.com/vi/6IqCESnoS6Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6IqCESnoS6Q">GitHub Copilot: A revolução da programação inteligente</a><br/>Feb 28, 2024</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=B6X5EXbUDpk"><img width="140px" src="https://i.ytimg.com/vi/B6X5EXbUDpk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B6X5EXbUDpk">Pipeline: Monitorando e Visualizando Execuções em Tempo Real</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jt6VMIY2BbU"><img width="140px" src="https://i.ytimg.com/vi/jt6VMIY2BbU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jt6VMIY2BbU">Como criar um pipeline de compilação eficiente no .NET</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wY7sH6bLVh0"><img width="140px" src="https://i.ytimg.com/vi/wY7sH6bLVh0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wY7sH6bLVh0">O Poder dos Reusable Workflows: Centralizando e Simplificando Seu Processo</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9Ae9kTAPCEA"><img width="140px" src="https://i.ytimg.com/vi/9Ae9kTAPCEA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9Ae9kTAPCEA">Como fazer o fluxo de deploy da sua aplicação | Tutorial</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0x02HtNh0qc"><img width="140px" src="https://i.ytimg.com/vi/0x02HtNh0qc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0x02HtNh0qc">Desvendando o uso de eventos e pipelines no GitHub</a><br/>Mar 1, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
