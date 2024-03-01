@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=C9X7Hyi2gtA"><img width="140px" src="https://i.ytimg.com/vi/C9X7Hyi2gtA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C9X7Hyi2gtA">Como configurar seu pipeline de desenvolvimento para otimizar seu ambiente de trabalho</a><br/>Mar 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4lHQiswiszw"><img width="140px" src="https://i.ytimg.com/vi/4lHQiswiszw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4lHQiswiszw">Automatizando seu Repositório com GitHub Actions: Aprenda como interagir com issues, pull request</a><br/>Mar 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=U8gA3zJgGmo"><img width="140px" src="https://i.ytimg.com/vi/U8gA3zJgGmo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=U8gA3zJgGmo">Como usar o GitHub Actions no seu repositório público</a><br/>Mar 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=B6X5EXbUDpk"><img width="140px" src="https://i.ytimg.com/vi/B6X5EXbUDpk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=B6X5EXbUDpk">Pipeline: Monitorando e Visualizando Execuções em Tempo Real</a><br/>Mar 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jt6VMIY2BbU"><img width="140px" src="https://i.ytimg.com/vi/jt6VMIY2BbU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jt6VMIY2BbU">Como criar um pipeline de compilação eficiente no .NET</a><br/>Mar 1, 2024</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vDxNgtPnuLs"><img width="140px" src="https://i.ytimg.com/vi/vDxNgtPnuLs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vDxNgtPnuLs">Por que eu tô com um Workflow Dispatch? | Como rodar manualmente o seu pipeline</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eGTMrCn3HJ0"><img width="140px" src="https://i.ytimg.com/vi/eGTMrCn3HJ0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eGTMrCn3HJ0">A incrível flexibilidade da linha de comando: Dicas e truques incríveis</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ju8gV5KzA08"><img width="140px" src="https://i.ytimg.com/vi/Ju8gV5KzA08/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ju8gV5KzA08">Como executar um runner no Actions da sua infraestrutura interna</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vud0J-Ei8A4"><img width="140px" src="https://i.ytimg.com/vi/vud0J-Ei8A4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vud0J-Ei8A4">Estratégia de SEO para 2024: Minha NOVA estratégia para tráfego no Google</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KJnDoDKzPbQ"><img width="140px" src="https://i.ytimg.com/vi/KJnDoDKzPbQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KJnDoDKzPbQ">Aprenda como usar gatilhos de ações com GitHub Actions</a><br/>Mar 1, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
