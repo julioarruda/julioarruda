@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K8aKHLfWXHc"><img width="140px" src="https://i.ytimg.com/vi/K8aKHLfWXHc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OXaXwg6V24Y"><img width="140px" src="https://i.ytimg.com/vi/OXaXwg6V24Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OXaXwg6V24Y">Como o GitHub Copilot protege sua propriedade intelectual?</a><br/>Mar 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zrkpmTl85p0"><img width="140px" src="https://i.ytimg.com/vi/zrkpmTl85p0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zrkpmTl85p0">Direitos autorais no GitHub Copilot: O que você precisa saber</a><br/>Mar 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=K8aKHLfWXHc"><img width="140px" src="https://i.ytimg.com/vi/K8aKHLfWXHc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K8aKHLfWXHc">Is it Safe to Use GitHub Copilot?</a><br/>Mar 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XSrHnsGEyFc"><img width="140px" src="https://i.ytimg.com/vi/XSrHnsGEyFc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XSrHnsGEyFc">É seguro usar o GitHub Copilot??</a><br/>Mar 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ooDL4P4C18g"><img width="140px" src="https://i.ytimg.com/vi/ooDL4P4C18g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ooDL4P4C18g">Skills to programming with AI</a><br/>Mar 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vDxNgtPnuLs"><img width="140px" src="https://i.ytimg.com/vi/vDxNgtPnuLs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vDxNgtPnuLs">Por que eu tô com um Workflow Dispatch? | Como rodar manualmente o seu pipeline</a><br/>Mar 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eGTMrCn3HJ0"><img width="140px" src="https://i.ytimg.com/vi/eGTMrCn3HJ0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eGTMrCn3HJ0">A incrível flexibilidade da linha de comando: Dicas e truques incríveis</a><br/>Mar 1, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
