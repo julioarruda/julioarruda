@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OXaXwg6V24Y"><img width="140px" src="https://i.ytimg.com/vi/OXaXwg6V24Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OXaXwg6V24Y">Como o GitHub Copilot protege sua propriedade intelectual?</a><br/>Mar 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zrkpmTl85p0"><img width="140px" src="https://i.ytimg.com/vi/zrkpmTl85p0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zrkpmTl85p0">Direitos autorais no GitHub Copilot: O que você precisa saber</a><br/>Mar 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=K8aKHLfWXHc"><img width="140px" src="https://i.ytimg.com/vi/K8aKHLfWXHc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=K8aKHLfWXHc">Is it Safe to Use GitHub Copilot?</a><br/>Mar 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XSrHnsGEyFc"><img width="140px" src="https://i.ytimg.com/vi/XSrHnsGEyFc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XSrHnsGEyFc">É seguro usar o GitHub Copilot??</a><br/>Mar 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ooDL4P4C18g"><img width="140px" src="https://i.ytimg.com/vi/ooDL4P4C18g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ooDL4P4C18g">Skills to programming with AI</a><br/>Mar 18, 2024</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4r4y2q8ixDo"><img width="140px" src="https://i.ytimg.com/vi/4r4y2q8ixDo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4r4y2q8ixDo">Unlocking the Power of GitHub Copilot: Supercharge Your Project Structure</a><br/>Apr 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AjTzlYgrUDc"><img width="140px" src="https://i.ytimg.com/vi/AjTzlYgrUDc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AjTzlYgrUDc">Supercharge Your Productivity with GitHub Copilot: Unlocking Hidden Shortcuts</a><br/>Apr 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jQ2J3qHUFvg"><img width="140px" src="https://i.ytimg.com/vi/jQ2J3qHUFvg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jQ2J3qHUFvg">How to Bootstrap Your First Project: Step-by-Step Guide with GitHub Copilot</a><br/>Apr 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=i0OQcCDZIHE"><img width="140px" src="https://i.ytimg.com/vi/i0OQcCDZIHE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=i0OQcCDZIHE">Unleashing the Power of GitHub Copilot: Boosting Productivity and Efficiency</a><br/>Apr 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mCa7SQHiwKY"><img width="140px" src="https://i.ytimg.com/vi/mCa7SQHiwKY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mCa7SQHiwKY">Supercharging Your GitHub Copilot: Unlocking Hidden Powers for Productivity</a><br/>Apr 2, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
