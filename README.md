@@ -39,7 +39,11 @@ PT-BR
 <!-- YOUTUBE:END -->
 
 EN-US
-<!-- YOUTUBEEN:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Adk79XNDU5o"><img width="140px" src="https://i.ytimg.com/vi/Adk79XNDU5o/mqdefault.jpg"></a></td>
+<!-- YOUTUBEEN:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mSxpB8V1iaE"><img width="140px" src="https://i.ytimg.com/vi/mSxpB8V1iaE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mSxpB8V1iaE">Is it Safe to Use GitHub Copilot?</a><br/>Apr 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=R7ZbVdeUqu4"><img width="140px" src="https://i.ytimg.com/vi/R7ZbVdeUqu4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=R7ZbVdeUqu4">GitHub Copilot with superpowers</a><br/>Apr 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Adk79XNDU5o"><img width="140px" src="https://i.ytimg.com/vi/Adk79XNDU5o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Adk79XNDU5o">GIT AND VERSION CONTROL | GIT HANDS ON</a><br/>Feb 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wHo1ftsyzNE"><img width="140px" src="https://i.ytimg.com/vi/wHo1ftsyzNE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wHo1ftsyzNE">Is the comparison between GitHub and GitLab correct?</a><br/>Feb 16, 2022</td></tr></table>
