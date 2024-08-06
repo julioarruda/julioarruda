@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Dbuo8BeF96s"><img width="140px" src="https://i.ytimg.com/vi/Dbuo8BeF96s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oLkrtUSc53Q"><img width="140px" src="https://i.ytimg.com/vi/oLkrtUSc53Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oLkrtUSc53Q">Analyzing Pull Requests with GitHub Copilot</a><br/>Aug 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Dbuo8BeF96s"><img width="140px" src="https://i.ytimg.com/vi/Dbuo8BeF96s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Dbuo8BeF96s">Analisando Pull Requests com GitHub Copilot</a><br/>Aug 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Bax68TL8K6Q"><img width="140px" src="https://i.ytimg.com/vi/Bax68TL8K6Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Bax68TL8K6Q">GitHub Copilot com Super Poderes</a><br/>Apr 3, 2024</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=4r4y2q8ixDo">Unlocking the Power of GitHub Copilot: Supercharge Your Project Structure</a><br/>Apr 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AjTzlYgrUDc"><img width="140px" src="https://i.ytimg.com/vi/AjTzlYgrUDc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AjTzlYgrUDc">Supercharge Your Productivity with GitHub Copilot: Unlocking Hidden Shortcuts</a><br/>Apr 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jQ2J3qHUFvg"><img width="140px" src="https://i.ytimg.com/vi/jQ2J3qHUFvg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jQ2J3qHUFvg">How to Bootstrap Your First Project: Step-by-Step Guide with GitHub Copilot</a><br/>Apr 2, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
