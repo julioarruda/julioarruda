@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Zc9cJYNgyY0"><img width="140px" src="https://i.ytimg.com/vi/Zc9cJYNgyY0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gCqoY0t0h-A"><img width="140px" src="https://i.ytimg.com/vi/gCqoY0t0h-A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gCqoY0t0h-A">Analisando o Repositório com GitHub Copilot</a><br/>Sep 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Zc9cJYNgyY0"><img width="140px" src="https://i.ytimg.com/vi/Zc9cJYNgyY0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zc9cJYNgyY0">Modelos de LLM no GitHub</a><br/>Aug 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oLkrtUSc53Q"><img width="140px" src="https://i.ytimg.com/vi/oLkrtUSc53Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oLkrtUSc53Q">Analyzing Pull Requests with GitHub Copilot</a><br/>Aug 6, 2024</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=Dbuo8BeF96s">Analisando Pull Requests com GitHub Copilot</a><br/>Aug 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Bax68TL8K6Q"><img width="140px" src="https://i.ytimg.com/vi/Bax68TL8K6Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Bax68TL8K6Q">GitHub Copilot com Super Poderes</a><br/>Apr 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4r4y2q8ixDo"><img width="140px" src="https://i.ytimg.com/vi/4r4y2q8ixDo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4r4y2q8ixDo">Unlocking the Power of GitHub Copilot: Supercharge Your Project Structure</a><br/>Apr 2, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
