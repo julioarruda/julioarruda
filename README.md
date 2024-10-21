@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cWq_dW_933I"><img width="140px" src="https://i.ytimg.com/vi/cWq_dW_933I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_b_HtFlY3Nc"><img width="140px" src="https://i.ytimg.com/vi/_b_HtFlY3Nc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_b_HtFlY3Nc">LLM`s will be ever hallucinate?</a><br/>Oct 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cWq_dW_933I"><img width="140px" src="https://i.ytimg.com/vi/cWq_dW_933I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cWq_dW_933I">As LLM`s vão sempre alucinar?</a><br/>Oct 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TzQ3DP11AHQ"><img width="140px" src="https://i.ytimg.com/vi/TzQ3DP11AHQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TzQ3DP11AHQ">Repository Analysis with GitHub Copilot</a><br/>Sep 3, 2024</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=gCqoY0t0h-A">Analisando o Repositório com GitHub Copilot</a><br/>Sep 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zc9cJYNgyY0"><img width="140px" src="https://i.ytimg.com/vi/Zc9cJYNgyY0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zc9cJYNgyY0">Modelos de LLM no GitHub</a><br/>Aug 12, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=oLkrtUSc53Q"><img width="140px" src="https://i.ytimg.com/vi/oLkrtUSc53Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oLkrtUSc53Q">Analyzing Pull Requests with GitHub Copilot</a><br/>Aug 6, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
