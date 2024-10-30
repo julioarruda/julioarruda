@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4zDPylMfNyA"><img width="140px" src="https://i.ytimg.com/vi/4zDPylMfNyA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0J9c3Cnvb90"><img width="140px" src="https://i.ytimg.com/vi/0J9c3Cnvb90/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0J9c3Cnvb90">Novidades do GitHub Universe 2024</a><br/>Oct 30, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4zDPylMfNyA"><img width="140px" src="https://i.ytimg.com/vi/4zDPylMfNyA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4zDPylMfNyA">GitHub Copilot Web em todos os planos</a><br/>Oct 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_b_HtFlY3Nc"><img width="140px" src="https://i.ytimg.com/vi/_b_HtFlY3Nc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_b_HtFlY3Nc">LLM`s will be ever hallucinate?</a><br/>Oct 21, 2024</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=cWq_dW_933I">As LLM`s vão sempre alucinar?</a><br/>Oct 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TzQ3DP11AHQ"><img width="140px" src="https://i.ytimg.com/vi/TzQ3DP11AHQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TzQ3DP11AHQ">Repository Analysis with GitHub Copilot</a><br/>Sep 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gCqoY0t0h-A"><img width="140px" src="https://i.ytimg.com/vi/gCqoY0t0h-A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gCqoY0t0h-A">Analisando o Repositório com GitHub Copilot</a><br/>Sep 2, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
