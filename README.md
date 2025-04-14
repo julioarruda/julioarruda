@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Xleqwf4cXQU"><img width="140px" src="https://i.ytimg.com/vi/Xleqwf4cXQU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CzfooWa94v0"><img width="140px" src="https://i.ytimg.com/vi/CzfooWa94v0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CzfooWa94v0">Rodando modelos de LLM no Docker</a><br/>Apr 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Xleqwf4cXQU"><img width="140px" src="https://i.ytimg.com/vi/Xleqwf4cXQU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Xleqwf4cXQU">GitHub Copilot de Graça?</a><br/>Dec 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0J9c3Cnvb90"><img width="140px" src="https://i.ytimg.com/vi/0J9c3Cnvb90/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0J9c3Cnvb90">Novidades do GitHub Universe 2024</a><br/>Oct 30, 2024</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=4zDPylMfNyA">GitHub Copilot Web em todos os planos</a><br/>Oct 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_b_HtFlY3Nc"><img width="140px" src="https://i.ytimg.com/vi/_b_HtFlY3Nc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_b_HtFlY3Nc">LLM`s will be ever hallucinate?</a><br/>Oct 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cWq_dW_933I"><img width="140px" src="https://i.ytimg.com/vi/cWq_dW_933I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cWq_dW_933I">As LLM`s vão sempre alucinar?</a><br/>Oct 14, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
