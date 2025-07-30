@@ -26,9 +26,7 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/q9vklzI2UQ4"><img width="140px" src="https://i.ytimg.com/vi/q9vklzI2UQ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/q9vklzI2UQ4">GitHub Copilot: The AI Powering Your Next Software Project! #shorts</a><br/>Jul 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=G4uQjJtD57M"><img width="140px" src="https://i.ytimg.com/vi/G4uQjJtD57M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=G4uQjJtD57M"><img width="140px" src="https://i.ytimg.com/vi/G4uQjJtD57M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G4uQjJtD57M">Vibe coding on GitHub? Meet Spark</a><br/>Jul 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YWIOhn3_yf8"><img width="140px" src="https://i.ytimg.com/vi/YWIOhn3_yf8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YWIOhn3_yf8">Vibe Coding no GitHub? Conheça o GitHub Spark</a><br/>Jul 28, 2025</td></tr></table>
@@ -36,6 +34,8 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=ap4mKh1yulg">Oque é e quanto custa o GitHub Copilot</a><br/>Apr 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=49wCBuIIUrI"><img width="140px" src="https://i.ytimg.com/vi/49wCBuIIUrI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=49wCBuIIUrI">What is and How much cost GitHub Copilot</a><br/>Apr 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TFCeZpxKP84"><img width="140px" src="https://i.ytimg.com/vi/TFCeZpxKP84/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TFCeZpxKP84">GPT 4.5 passed on Turing Test</a><br/>Apr 23, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
