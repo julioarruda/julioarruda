@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/8VBVnCrlF_Q"><img width="140px" src="https://i.ytimg.com/vi/8VBVnCrlF_Q/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/-LR3l2T4jlI"><img width="140px" src="https://i.ytimg.com/vi/-LR3l2T4jlI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/-LR3l2T4jlI">🚨 Todo mundo fala que vai modernizar o legado. Poucos realmente fazem. #COBOL #AIEngineering #Wynxx</a><br/>Feb 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/8VBVnCrlF_Q"><img width="140px" src="https://i.ytimg.com/vi/8VBVnCrlF_Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/8VBVnCrlF_Q">🤖 Você sabia que pode ensinar os agentes a ter novas habilidades? #genai #innovation</a><br/>Feb 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/Zi5H6XPOCQE"><img width="140px" src="https://i.ytimg.com/vi/Zi5H6XPOCQE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Zi5H6XPOCQE">👀 O mercado está debatendo se a IA vai eliminar os juniores. #genai #innovation #techleadership</a><br/>Feb 26, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/6ac8KEfgfs0">O maior skill de 2026 não é programar. É orquestrar. #genai #innovation #techleadership</a><br/>Feb 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PG0Ks60vKkA"><img width="140px" src="https://i.ytimg.com/vi/PG0Ks60vKkA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PG0Ks60vKkA">Engenharia de Contexto, A nova forma de desenvolver Software</a><br/>Feb 2, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TT25C5OFhpg"><img width="140px" src="https://i.ytimg.com/vi/TT25C5OFhpg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TT25C5OFhpg">GitHub Copilot com super poderes</a><br/>Aug 4, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
