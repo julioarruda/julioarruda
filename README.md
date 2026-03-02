@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/ToI-DRxkJT8"><img width="140px" src="https://i.ytimg.com/vi/ToI-DRxkJT8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mh33fj5kqJk"><img width="140px" src="https://i.ytimg.com/vi/Mh33fj5kqJk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Mh33fj5kqJk">O Fim dos Desenvolvedores? Como os Agentes de IA Estão Mudando Tudo</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/ToI-DRxkJT8"><img width="140px" src="https://i.ytimg.com/vi/ToI-DRxkJT8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ToI-DRxkJT8">🙋‍♂️A IA generativa ficou poderosa rápido. #MCP #AgenticAI #AIStrategy</a><br/>Mar 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/-LR3l2T4jlI"><img width="140px" src="https://i.ytimg.com/vi/-LR3l2T4jlI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/-LR3l2T4jlI">🚨 Todo mundo fala que vai modernizar o legado. Poucos realmente fazem. #COBOL #AIEngineering #Wynxx</a><br/>Feb 27, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/8VBVnCrlF_Q">🤖 Você sabia que pode ensinar os agentes a ter novas habilidades? #genai #innovation</a><br/>Feb 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/Zi5H6XPOCQE"><img width="140px" src="https://i.ytimg.com/vi/Zi5H6XPOCQE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Zi5H6XPOCQE">👀 O mercado está debatendo se a IA vai eliminar os juniores. #genai #innovation #techleadership</a><br/>Feb 26, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/6ac8KEfgfs0"><img width="140px" src="https://i.ytimg.com/vi/6ac8KEfgfs0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/6ac8KEfgfs0">O maior skill de 2026 não é programar. É orquestrar. #genai #innovation #techleadership</a><br/>Feb 26, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
