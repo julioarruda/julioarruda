@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/X3PlCsRulR0"><img width="140px" src="https://i.ytimg.com/vi/X3PlCsRulR0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/fgHgZ9asxEQ"><img width="140px" src="https://i.ytimg.com/vi/fgHgZ9asxEQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/fgHgZ9asxEQ">🧐 Você já entrou em um projeto e se perguntou “por que isso foi feito assim?”  #ADR #AgenticAI</a><br/>Mar 5, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/X3PlCsRulR0"><img width="140px" src="https://i.ytimg.com/vi/X3PlCsRulR0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/X3PlCsRulR0">🤯O Google acabou de anunciar o WebMCP. #genai #techleadership #aiagents #mcpserver</a><br/>Mar 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/T3VKIAjZewA"><img width="140px" src="https://i.ytimg.com/vi/T3VKIAjZewA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/T3VKIAjZewA">🤯 O GitHub lançou um guia prático sobre o Copilot CLI. #githubcopilot #techleadership #genai</a><br/>Mar 3, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=Mh33fj5kqJk">O Fim dos Desenvolvedores? Como os Agentes de IA Estão Mudando Tudo</a><br/>Mar 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ToI-DRxkJT8"><img width="140px" src="https://i.ytimg.com/vi/ToI-DRxkJT8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ToI-DRxkJT8">🙋‍♂️A IA generativa ficou poderosa rápido. #MCP #AgenticAI #AIStrategy</a><br/>Mar 2, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/-LR3l2T4jlI"><img width="140px" src="https://i.ytimg.com/vi/-LR3l2T4jlI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/-LR3l2T4jlI">🚨 Todo mundo fala que vai modernizar o legado. Poucos realmente fazem. #COBOL #AIEngineering #Wynxx</a><br/>Feb 27, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
