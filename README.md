@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/7Wd_ojr23Wk"><img width="140px" src="https://i.ytimg.com/vi/7Wd_ojr23Wk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/2g-zFnB4K2U"><img width="140px" src="https://i.ytimg.com/vi/2g-zFnB4K2U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/2g-zFnB4K2U">IA revoluciona desenvolvimento: Programar em 1 dia, Tech Lead virtual! #shorts</a><br/>Mar 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/7Wd_ojr23Wk"><img width="140px" src="https://i.ytimg.com/vi/7Wd_ojr23Wk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/7Wd_ojr23Wk">IA te ajuda, mas a responsabilidade é SUA! 💻🔥 #shorts</a><br/>Mar 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/bj1RFnq16Mg"><img width="140px" src="https://i.ytimg.com/vi/bj1RFnq16Mg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/bj1RFnq16Mg">IA: Automação de Código ou Foco no Negócio? #shorts</a><br/>Mar 10, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/pP6BmWcTXCo">Crie uma Equipe de Dev IA Completa com GitHub Copilot! #shorts</a><br/>Mar 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/EX8d5dl9EH8"><img width="140px" src="https://i.ytimg.com/vi/EX8d5dl9EH8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/EX8d5dl9EH8">O Fim do Desenvolvimento de Software? Julio Arruda Explica! #shorts</a><br/>Mar 10, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/h3ZTN7e9cMY"><img width="140px" src="https://i.ytimg.com/vi/h3ZTN7e9cMY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/h3ZTN7e9cMY">ChatGPT: A Revolução que Mudou o Acesso à Informação Para Sempre! #shorts</a><br/>Mar 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
