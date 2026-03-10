@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/EX8d5dl9EH8"><img width="140px" src="https://i.ytimg.com/vi/EX8d5dl9EH8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/bj1RFnq16Mg"><img width="140px" src="https://i.ytimg.com/vi/bj1RFnq16Mg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/bj1RFnq16Mg">IA: Automação de Código ou Foco no Negócio? #shorts</a><br/>Mar 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/pP6BmWcTXCo"><img width="140px" src="https://i.ytimg.com/vi/pP6BmWcTXCo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/pP6BmWcTXCo">Crie uma Equipe de Dev IA Completa com GitHub Copilot! #shorts</a><br/>Mar 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/EX8d5dl9EH8"><img width="140px" src="https://i.ytimg.com/vi/EX8d5dl9EH8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/EX8d5dl9EH8">O Fim do Desenvolvimento de Software? Julio Arruda Explica! #shorts</a><br/>Mar 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/h3ZTN7e9cMY"><img width="140px" src="https://i.ytimg.com/vi/h3ZTN7e9cMY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/h3ZTN7e9cMY">ChatGPT: A Revolução que Mudou o Acesso à Informação Para Sempre! #shorts</a><br/>Mar 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/-wGfDhe8hYY"><img width="140px" src="https://i.ytimg.com/vi/-wGfDhe8hYY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/-wGfDhe8hYY">Desenvolvedores: De Codificadores a Maestros de Times Virtuais com IA! #shorts</a><br/>Mar 10, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/_ZxIzL-jKTE"><img width="140px" src="https://i.ytimg.com/vi/_ZxIzL-jKTE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/_ZxIzL-jKTE">IA em Equipe: Desenvolvedores são Substituídos? Descobertas Incríveis! #shorts</a><br/>Mar 10, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/Tz145I_1Jec"><img width="140px" src="https://i.ytimg.com/vi/Tz145I_1Jec/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Tz145I_1Jec">Crie uma Equipe de Dev IA Completa com GitHub Copilot! #shorts</a><br/>Mar 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
