@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/frl3tTDZuLQ"><img width="140px" src="https://i.ytimg.com/vi/frl3tTDZuLQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/_ZxIzL-jKTE"><img width="140px" src="https://i.ytimg.com/vi/_ZxIzL-jKTE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/_ZxIzL-jKTE">IA em Equipe: Desenvolvedores são Substituídos? Descobertas Incríveis! #shorts</a><br/>Mar 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/Tz145I_1Jec"><img width="140px" src="https://i.ytimg.com/vi/Tz145I_1Jec/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/Tz145I_1Jec">Crie uma Equipe de Dev IA Completa com GitHub Copilot! #shorts</a><br/>Mar 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/frl3tTDZuLQ"><img width="140px" src="https://i.ytimg.com/vi/frl3tTDZuLQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/frl3tTDZuLQ">IA Autônoma: O Fim dos Desenvolvedores ou o Futuro do Código? #shorts</a><br/>Mar 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UoIYXAgiqts"><img width="140px" src="https://i.ytimg.com/vi/UoIYXAgiqts/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UoIYXAgiqts">Quanto mais IA seu time usa, menos sênior ele fica. Entenda por quê.</a><br/>Mar 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/fgHgZ9asxEQ"><img width="140px" src="https://i.ytimg.com/vi/fgHgZ9asxEQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fgHgZ9asxEQ">🧐 Você já entrou em um projeto e se perguntou “por que isso foi feito assim?”  #ADR #AgenticAI</a><br/>Mar 5, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/X3PlCsRulR0"><img width="140px" src="https://i.ytimg.com/vi/X3PlCsRulR0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/X3PlCsRulR0">🤯O Google acabou de anunciar o WebMCP. #genai #techleadership #aiagents #mcpserver</a><br/>Mar 4, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/T3VKIAjZewA"><img width="140px" src="https://i.ytimg.com/vi/T3VKIAjZewA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/T3VKIAjZewA">🤯 O GitHub lançou um guia prático sobre o Copilot CLI. #githubcopilot #techleadership #genai</a><br/>Mar 3, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
