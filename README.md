@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/EGIYY9iMEzw"><img width="140px" src="https://i.ytimg.com/vi/EGIYY9iMEzw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/bbUhR-s4wlQ"><img width="140px" src="https://i.ytimg.com/vi/bbUhR-s4wlQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/bbUhR-s4wlQ">IA: O Futuro Chegou e Você Precisa Usar Já! #shorts</a><br/>Mar 12, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/EGIYY9iMEzw"><img width="140px" src="https://i.ytimg.com/vi/EGIYY9iMEzw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/EGIYY9iMEzw">IA em Equipe: Desenvolvedores são Substituídos? Descobertas Incríveis! #shorts</a><br/>Mar 11, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/cgwhbKN-t08"><img width="140px" src="https://i.ytimg.com/vi/cgwhbKN-t08/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/cgwhbKN-t08">IA no Desenvolvimento: O Que VOCÊ Pensa Sobre Isso? #shorts</a><br/>Mar 11, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/WMN_x5cCb4w">IA no Desenvolvimento: Curta, Compartilhe e Comente o Futuro! #shorts</a><br/>Mar 11, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/FGq8IE_zha4"><img width="140px" src="https://i.ytimg.com/vi/FGq8IE_zha4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/FGq8IE_zha4">Devs são os Novos Líderes de Times Virtuais: Agilidade em Foco! #shorts</a><br/>Mar 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/RBObyLUVPgk"><img width="140px" src="https://i.ytimg.com/vi/RBObyLUVPgk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/RBObyLUVPgk">Desenvolvimento de Software Antigo: Manual, Fóruns e o Caos! #shorts</a><br/>Mar 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
