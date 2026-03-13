@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/K_IHXX-S6Z0"><img width="140px" src="https://i.ytimg.com/vi/K_IHXX-S6Z0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/BrG1RlgA1yI"><img width="140px" src="https://i.ytimg.com/vi/BrG1RlgA1yI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/BrG1RlgA1yI">IA na Produção vs. Crescimento: Um Guia Essencial #shorts</a><br/>Mar 13, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/K_IHXX-S6Z0"><img width="140px" src="https://i.ytimg.com/vi/K_IHXX-S6Z0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/K_IHXX-S6Z0">IA para Desenvolvedores: Guia Essencial Para Iniciantes #shorts</a><br/>Mar 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/vO7TF9NpZXE"><img width="140px" src="https://i.ytimg.com/vi/vO7TF9NpZXE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/vO7TF9NpZXE">IA Generativa: A Preguiça de Pensar e o Futuro Profissional #shorts</a><br/>Mar 12, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/bbUhR-s4wlQ">IA: O Futuro Chegou e Você Precisa Usar Já! #shorts</a><br/>Mar 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/EGIYY9iMEzw"><img width="140px" src="https://i.ytimg.com/vi/EGIYY9iMEzw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/EGIYY9iMEzw">IA em Equipe: Desenvolvedores são Substituídos? Descobertas Incríveis! #shorts</a><br/>Mar 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/cgwhbKN-t08"><img width="140px" src="https://i.ytimg.com/vi/cgwhbKN-t08/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/cgwhbKN-t08">IA no Desenvolvimento: O Que VOCÊ Pensa Sobre Isso? #shorts</a><br/>Mar 11, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
