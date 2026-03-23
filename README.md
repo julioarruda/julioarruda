@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kvTQ9-yZOCU"><img width="140px" src="https://i.ytimg.com/vi/kvTQ9-yZOCU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/dKbavfuYOw0"><img width="140px" src="https://i.ytimg.com/vi/dKbavfuYOw0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/dKbavfuYOw0">IA para programadores: 94% de tarefas cobertas, mas só 33% usadas! #shorts</a><br/>Mar 23, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kvTQ9-yZOCU"><img width="140px" src="https://i.ytimg.com/vi/kvTQ9-yZOCU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kvTQ9-yZOCU">IA pode fazer 94% do seu trabalho… então por que só usamos 33%?</a><br/>Mar 17, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ZOjxhTbD6V4"><img width="140px" src="https://i.ytimg.com/vi/ZOjxhTbD6V4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ZOjxhTbD6V4">Desenvolvedor: Ferramenta apoia, não substitui! #shorts</a><br/>Mar 14, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/BrG1RlgA1yI">IA na Produção vs. Crescimento: Um Guia Essencial #shorts</a><br/>Mar 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/K_IHXX-S6Z0"><img width="140px" src="https://i.ytimg.com/vi/K_IHXX-S6Z0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/K_IHXX-S6Z0">IA para Desenvolvedores: Guia Essencial Para Iniciantes #shorts</a><br/>Mar 13, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/vO7TF9NpZXE"><img width="140px" src="https://i.ytimg.com/vi/vO7TF9NpZXE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/vO7TF9NpZXE">IA Generativa: A Preguiça de Pensar e o Futuro Profissional #shorts</a><br/>Mar 12, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
