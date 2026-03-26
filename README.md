@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/54wqkhVpmOM"><img width="140px" src="https://i.ytimg.com/vi/54wqkhVpmOM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/f-kCab45SgI"><img width="140px" src="https://i.ytimg.com/vi/f-kCab45SgI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/f-kCab45SgI">Anthropic: A IA no Trabalho Real Ganha Nova Métrica #shorts</a><br/>Mar 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/54wqkhVpmOM"><img width="140px" src="https://i.ytimg.com/vi/54wqkhVpmOM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/54wqkhVpmOM">IA: O Gap Real x Teoria e Como Liderar Times Técnicos #shorts</a><br/>Mar 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/bBRRHN6cmyw"><img width="140px" src="https://i.ytimg.com/vi/bBRRHN6cmyw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/bBRRHN6cmyw">IA: O Fim da Porta de Entrada para Jovens Profissionais? #shorts</a><br/>Mar 24, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/-dQZAFrhkwM">IA Cobre 94% do Código, Mas Só 33% é Usado: O Grande Segredo! #shorts</a><br/>Mar 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/Xsq31Z2JR5U"><img width="140px" src="https://i.ytimg.com/vi/Xsq31Z2JR5U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Xsq31Z2JR5U">IA para programadores: 94% de tarefas cobertas, mas só 33% usadas! #shorts</a><br/>Mar 24, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/dKbavfuYOw0"><img width="140px" src="https://i.ytimg.com/vi/dKbavfuYOw0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/dKbavfuYOw0">IA para programadores: 94% de tarefas cobertas, mas só 33% usadas! #shorts</a><br/>Mar 23, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
