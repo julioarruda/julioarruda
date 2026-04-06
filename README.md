@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kMIYX-5Ufq0"><img width="140px" src="https://i.ytimg.com/vi/kMIYX-5Ufq0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/MytM098ze0E"><img width="140px" src="https://i.ytimg.com/vi/MytM098ze0E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/MytM098ze0E">Líderes Tech: Sua empresa USA Copilot? Tenha cuidado! #shorts</a><br/>Apr 6, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kMIYX-5Ufq0"><img width="140px" src="https://i.ytimg.com/vi/kMIYX-5Ufq0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kMIYX-5Ufq0">O GitHub mudou a política do Copilot — e a maioria dos gestores não sabe</a><br/>Mar 31, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/fq3lfsII0MQ"><img width="140px" src="https://i.ytimg.com/vi/fq3lfsII0MQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fq3lfsII0MQ">Desenvolvedores: 94% de Teoria vs 33% na Prática Real! #shorts</a><br/>Mar 29, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/TzP-OBERqdo">Como o Claude Usa Dados Para Te Ajudar: O Segredo Revelado! #shorts</a><br/>Mar 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/XcgONhQN770"><img width="140px" src="https://i.ytimg.com/vi/XcgONhQN770/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/XcgONhQN770">Liderança Técnica: A Verdade Chocante Sobre IA Que Ninguém Te Conta! #shorts</a><br/>Mar 27, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/6ijj-8PM_qw"><img width="140px" src="https://i.ytimg.com/vi/6ijj-8PM_qw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/6ijj-8PM_qw">Previsões de Emprego Falharam? Veja o que Aconteceu! #shorts</a><br/>Mar 27, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
