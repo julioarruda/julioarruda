@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/-mKNN1egT84"><img width="140px" src="https://i.ytimg.com/vi/-mKNN1egT84/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fWu8wDfOSZM"><img width="140px" src="https://i.ytimg.com/vi/fWu8wDfOSZM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fWu8wDfOSZM">Claude Code - 8 mil repos deletados. A comunidade reescreveu em Rust.</a><br/>Apr 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/vLZG0HtEB38"><img width="140px" src="https://i.ytimg.com/vi/vLZG0HtEB38/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/vLZG0HtEB38">GitHub: Coleta de Dados Padrão para IA? Entenda o &quot;Opt-Out&quot;! #shorts</a><br/>Apr 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/-mKNN1egT84"><img width="140px" src="https://i.ytimg.com/vi/-mKNN1egT84/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/-mKNN1egT84">GitHub Transparente: O Ponto Cego da Sua Empresa com IA! #shorts</a><br/>Apr 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ELVskkIQIVs"><img width="140px" src="https://i.ytimg.com/vi/ELVskkIQIVs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ELVskkIQIVs">Empresas Ignoram IA Pessoal: Gestores de TI, Abram os Olhos! #shorts</a><br/>Apr 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/bM--z03cQVI"><img width="140px" src="https://i.ytimg.com/vi/bM--z03cQVI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/bM--z03cQVI">Líder Tech: Copilot, IA e Política de Uso em 2 Perguntas! #shorts</a><br/>Apr 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/MytM098ze0E"><img width="140px" src="https://i.ytimg.com/vi/MytM098ze0E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/MytM098ze0E">Líderes Tech: Sua empresa USA Copilot? Tenha cuidado! #shorts</a><br/>Apr 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kMIYX-5Ufq0"><img width="140px" src="https://i.ytimg.com/vi/kMIYX-5Ufq0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kMIYX-5Ufq0">O GitHub mudou a política do Copilot — e a maioria dos gestores não sabe</a><br/>Mar 31, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
