@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fWu8wDfOSZM"><img width="140px" src="https://i.ytimg.com/vi/fWu8wDfOSZM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/rWWMa6C49fs"><img width="140px" src="https://i.ytimg.com/vi/rWWMa6C49fs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/rWWMa6C49fs">GitHub: Dados Seus para o Produto, Não Para Você! #shorts</a><br/>Apr 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fWu8wDfOSZM"><img width="140px" src="https://i.ytimg.com/vi/fWu8wDfOSZM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fWu8wDfOSZM">Claude Code - 8 mil repos deletados. A comunidade reescreveu em Rust.</a><br/>Apr 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/vLZG0HtEB38"><img width="140px" src="https://i.ytimg.com/vi/vLZG0HtEB38/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/vLZG0HtEB38">GitHub: Coleta de Dados Padrão para IA? Entenda o &quot;Opt-Out&quot;! #shorts</a><br/>Apr 8, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/-mKNN1egT84">GitHub Transparente: O Ponto Cego da Sua Empresa com IA! #shorts</a><br/>Apr 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ELVskkIQIVs"><img width="140px" src="https://i.ytimg.com/vi/ELVskkIQIVs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ELVskkIQIVs">Empresas Ignoram IA Pessoal: Gestores de TI, Abram os Olhos! #shorts</a><br/>Apr 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/bM--z03cQVI"><img width="140px" src="https://i.ytimg.com/vi/bM--z03cQVI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/bM--z03cQVI">Líder Tech: Copilot, IA e Política de Uso em 2 Perguntas! #shorts</a><br/>Apr 7, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
