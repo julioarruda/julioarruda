@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/0KGFUFp1jUc"><img width="140px" src="https://i.ytimg.com/vi/0KGFUFp1jUc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/cuKb4d4DxOw"><img width="140px" src="https://i.ytimg.com/vi/cuKb4d4DxOw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/cuKb4d4DxOw">Inscreva-se! GitHub, Copilot, Dev &amp; IA no Próximo Vídeo! #shorts</a><br/>Apr 12, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/0KGFUFp1jUc"><img width="140px" src="https://i.ytimg.com/vi/0KGFUFp1jUc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/0KGFUFp1jUc">Copilot: Mudança de Política que Afeta SEU Código AGORA! #shorts</a><br/>Apr 11, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/vE8b-sv-3iw"><img width="140px" src="https://i.ytimg.com/vi/vE8b-sv-3iw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/vE8b-sv-3iw">Seus Dados no Copilot: O Que Fica e O Que Sai? #shorts</a><br/>Apr 10, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/k5ia2SMqPsc">GitHub Copilot: Seus dados de código treinam IA! Saiba como desativar. #shorts</a><br/>Apr 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/23gc47VFiZg"><img width="140px" src="https://i.ytimg.com/vi/23gc47VFiZg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/23gc47VFiZg">GitHub Copilot vai TREINAR com SEUS dados! Mudança de Política Explicada #shorts</a><br/>Apr 9, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/jJSgojsq36k"><img width="140px" src="https://i.ytimg.com/vi/jJSgojsq36k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/jJSgojsq36k">Copilot no GitHub: Plano Gratuito vs Pago Para Sua Empresa? #shorts</a><br/>Apr 9, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
