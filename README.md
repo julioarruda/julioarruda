@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/mXuE921b39k"><img width="140px" src="https://i.ytimg.com/vi/mXuE921b39k/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/ol66t4S-NfA"><img width="140px" src="https://i.ytimg.com/vi/ol66t4S-NfA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ol66t4S-NfA">Comunidade: O Poder Open Source Reescreve o Código da IA! #shorts</a><br/>Apr 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/mXuE921b39k"><img width="140px" src="https://i.ytimg.com/vi/mXuE921b39k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/mXuE921b39k">Vazamento de Código AI: Comunidade Reage e Cria Novo Futuro! #shorts</a><br/>Apr 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/eu8F71o6rng"><img width="140px" src="https://i.ytimg.com/vi/eu8F71o6rng/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/eu8F71o6rng">Vazamento Claude Code: Comunidade Reescreve Código em 24h! #shorts</a><br/>Apr 13, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/cuKb4d4DxOw">Inscreva-se! GitHub, Copilot, Dev &amp; IA no Próximo Vídeo! #shorts</a><br/>Apr 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/0KGFUFp1jUc"><img width="140px" src="https://i.ytimg.com/vi/0KGFUFp1jUc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/0KGFUFp1jUc">Copilot: Mudança de Política que Afeta SEU Código AGORA! #shorts</a><br/>Apr 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/vE8b-sv-3iw"><img width="140px" src="https://i.ytimg.com/vi/vE8b-sv-3iw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/vE8b-sv-3iw">Seus Dados no Copilot: O Que Fica e O Que Sai? #shorts</a><br/>Apr 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
