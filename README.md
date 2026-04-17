@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/hVRwajtCyY8"><img width="140px" src="https://i.ytimg.com/vi/hVRwajtCyY8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/0OOrLAJxrqY"><img width="140px" src="https://i.ytimg.com/vi/0OOrLAJxrqY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/0OOrLAJxrqY">AI para Empresas: O Que Você PRECISA Saber AGORA! #shorts</a><br/>Apr 16, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/hVRwajtCyY8"><img width="140px" src="https://i.ytimg.com/vi/hVRwajtCyY8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/hVRwajtCyY8">Vazamento Claude Code: Revelações Secretas da Anthropic! #shorts</a><br/>Apr 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/-dEoRJH0zRU"><img width="140px" src="https://i.ytimg.com/vi/-dEoRJH0zRU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/-dEoRJH0zRU">Segurança Essencial: Proteja Seus Pipelines e Produtos de Software! #shorts</a><br/>Apr 15, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/x9a8O-Qb7UI">Desenvolvedor Coreano Reage à Anthropic: Código Viraliza no GitHub! #shorts</a><br/>Apr 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/IEAuA8H8zno"><img width="140px" src="https://i.ytimg.com/vi/IEAuA8H8zno/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/IEAuA8H8zno">Vazou Claude Code! Comunidade Reescreve Ferramenta em Horas! 🚀 #shorts</a><br/>Apr 15, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/ol66t4S-NfA"><img width="140px" src="https://i.ytimg.com/vi/ol66t4S-NfA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/ol66t4S-NfA">Comunidade: O Poder Open Source Reescreve o Código da IA! #shorts</a><br/>Apr 14, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
