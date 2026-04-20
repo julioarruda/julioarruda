@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/xf0gXKXmWVs"><img width="140px" src="https://i.ytimg.com/vi/xf0gXKXmWVs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N80MjPpzFwo"><img width="140px" src="https://i.ytimg.com/vi/N80MjPpzFwo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N80MjPpzFwo">A IA que hackeou tudo — antes dos criminosos</a><br/>Apr 20, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/xf0gXKXmWVs"><img width="140px" src="https://i.ytimg.com/vi/xf0gXKXmWVs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/xf0gXKXmWVs">Claw Code: Rust, VS Code &amp; Plugins - O Futuro Open Source! #shorts</a><br/>Apr 18, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/D3ATAfCTxBQ"><img width="140px" src="https://i.ytimg.com/vi/D3ATAfCTxBQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/D3ATAfCTxBQ">Vazamento Claude Code: Comunidade Reescreve Código em Horas! #shorts</a><br/>Apr 18, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/wqLse93QBNY">Claw Code Vazado: Você Usaria em Produção ou Esperaria? Opiniões! 🤔 #shorts</a><br/>Apr 17, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/0OOrLAJxrqY"><img width="140px" src="https://i.ytimg.com/vi/0OOrLAJxrqY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/0OOrLAJxrqY">AI para Empresas: O Que Você PRECISA Saber AGORA! #shorts</a><br/>Apr 16, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/hVRwajtCyY8"><img width="140px" src="https://i.ytimg.com/vi/hVRwajtCyY8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/hVRwajtCyY8">Vazamento Claude Code: Revelações Secretas da Anthropic! #shorts</a><br/>Apr 16, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
