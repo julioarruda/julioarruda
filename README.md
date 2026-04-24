@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/eeqXhqrIjFQ"><img width="140px" src="https://i.ytimg.com/vi/eeqXhqrIjFQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/lM9gxhvWyX0"><img width="140px" src="https://i.ytimg.com/vi/lM9gxhvWyX0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/lM9gxhvWyX0">IA Revolucionária: Explora Vulnerabilidades e Cria Exploits Funcionais! #shorts</a><br/>Apr 24, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/eeqXhqrIjFQ"><img width="140px" src="https://i.ytimg.com/vi/eeqXhqrIjFQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/eeqXhqrIjFQ">IA Revolucionária Encontra Bugs de 27 Anos em Sistemas! 🤯 #shortsbeta</a><br/>Apr 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/8JMA4Azqc3Q"><img width="140px" src="https://i.ytimg.com/vi/8JMA4Azqc3Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/8JMA4Azqc3Q">Kernel Linux: Vulnera&#39;dabilidades Críticas Descobertas! #shorts</a><br/>Apr 23, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/2JTi0dyusjQ">AI Acelera Exploits: A Nova Era da Segurança Digital #shorts</a><br/>Apr 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/IqZiX5d9jAo"><img width="140px" src="https://i.ytimg.com/vi/IqZiX5d9jAo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/IqZiX5d9jAo">IA Descobre 0-Days: O Futuro da Segurança Cibernética #shorts</a><br/>Apr 22, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/eneJaBycYos"><img width="140px" src="https://i.ytimg.com/vi/eneJaBycYos/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/eneJaBycYos">IA: A Nova Fronteira na Criação de Exploits de Segurança #shorts</a><br/>Apr 21, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
