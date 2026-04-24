@@ -27,7 +27,7 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 PT-BR
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/eeqXhqrIjFQ"><img width="140px" src="https://i.ytimg.com/vi/eeqXhqrIjFQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/eeqXhqrIjFQ">IA Revolucionária Encontra Bugs de 27 Anos em Sistemas! 🤯 #shorts</a><br/>Apr 23, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/shorts/eeqXhqrIjFQ">IA Revolucionária Encontra Bugs de 27 Anos em Sistemas! 🤯 #shortsbeta</a><br/>Apr 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/8JMA4Azqc3Q"><img width="140px" src="https://i.ytimg.com/vi/8JMA4Azqc3Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/8JMA4Azqc3Q">Kernel Linux: Vulnera&#39;dabilidades Críticas Descobertas! #shorts</a><br/>Apr 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/2JTi0dyusjQ"><img width="140px" src="https://i.ytimg.com/vi/2JTi0dyusjQ/mqdefault.jpg"></a></td>
