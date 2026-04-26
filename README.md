@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/DgAxTED_etk"><img width="140px" src="https://i.ytimg.com/vi/DgAxTED_etk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/e-_QGtcdawY"><img width="140px" src="https://i.ytimg.com/vi/e-_QGtcdawY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/e-_QGtcdawY">Anthropic Glasswing: Segurança IA Revolucionária Revelada! #shorts</a><br/>Apr 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/DgAxTED_etk"><img width="140px" src="https://i.ytimg.com/vi/DgAxTED_etk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/DgAxTED_etk">CTO: Use IA para Encontrar Vulnerabilidades Agora! #shorts</a><br/>Apr 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/BRCmD2Ji-iY"><img width="140px" src="https://i.ytimg.com/vi/BRCmD2Ji-iY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/BRCmD2Ji-iY">IA na Segurança: Reduza Vulnerabilidades e Acelere Patches! #shorts</a><br/>Apr 25, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/Nw-E6XDux5w">Ciclos de Patch Rápidos: Segurança e Vulnerabilidades #shorts</a><br/>Apr 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/lM9gxhvWyX0"><img width="140px" src="https://i.ytimg.com/vi/lM9gxhvWyX0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/lM9gxhvWyX0">IA Revolucionária: Explora Vulnerabilidades e Cria Exploits Funcionais! #shorts</a><br/>Apr 24, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/eeqXhqrIjFQ"><img width="140px" src="https://i.ytimg.com/vi/eeqXhqrIjFQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/eeqXhqrIjFQ">IA Revolucionária Encontra Bugs de 27 Anos em Sistemas! 🤯 #shortsbeta</a><br/>Apr 23, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
