@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/tLW9KLG_2B0"><img width="140px" src="https://i.ytimg.com/vi/tLW9KLG_2B0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/NYHxl4yW7F4"><img width="140px" src="https://i.ytimg.com/vi/NYHxl4yW7F4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/NYHxl4yW7F4">Gigantes da Tecnologia Unidos: A Ameaça Cibernética Revelada! #shorts</a><br/>Apr 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/tLW9KLG_2B0"><img width="140px" src="https://i.ytimg.com/vi/tLW9KLG_2B0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/tLW9KLG_2B0">IA Supera Humanos em Segurança de Software! #shorts</a><br/>Apr 27, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/e-_QGtcdawY"><img width="140px" src="https://i.ytimg.com/vi/e-_QGtcdawY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/e-_QGtcdawY">Anthropic Glasswing: Segurança IA Revolucionária Revelada! #shorts</a><br/>Apr 26, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/DgAxTED_etk">CTO: Use IA para Encontrar Vulnerabilidades Agora! #shorts</a><br/>Apr 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/BRCmD2Ji-iY"><img width="140px" src="https://i.ytimg.com/vi/BRCmD2Ji-iY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/BRCmD2Ji-iY">IA na Segurança: Reduza Vulnerabilidades e Acelere Patches! #shorts</a><br/>Apr 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/Nw-E6XDux5w"><img width="140px" src="https://i.ytimg.com/vi/Nw-E6XDux5w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Nw-E6XDux5w">Ciclos de Patch Rápidos: Segurança e Vulnerabilidades #shorts</a><br/>Apr 24, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
