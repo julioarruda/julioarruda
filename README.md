@@ -26,16 +26,16 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/Rxv-4eA3tss"><img width="140px" src="https://i.ytimg.com/vi/Rxv-4eA3tss/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=B5hz-MesLuA"><img width="140px" src="https://i.ytimg.com/vi/B5hz-MesLuA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B5hz-MesLuA">GitHub Copilot vai cobrar por token: o que muda pra você em junho</a><br/>Apr 29, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/JcpLKSv9mLA"><img width="140px" src="https://i.ytimg.com/vi/JcpLKSv9mLA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/JcpLKSv9mLA">Milhares de Vulnerabilidades Críticas Não Corrigidas! #shorts</a><br/>Apr 29, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/Rxv-4eA3tss"><img width="140px" src="https://i.ytimg.com/vi/Rxv-4eA3tss/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Rxv-4eA3tss">IA: Habilidades Inesperadas Emergindo Rapidamente #shorts</a><br/>Apr 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/aRWvybq25T8"><img width="140px" src="https://i.ytimg.com/vi/aRWvybq25T8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/aRWvybq25T8">IA no SDLC: Klesium Revoluciona Revisão de Código! #shorts</a><br/>Apr 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/mJAb_siP7C0"><img width="140px" src="https://i.ytimg.com/vi/mJAb_siP7C0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/mJAb_siP7C0">IA Descobre Milhares de Vulnerabilidades 0-Day Sozinha! #shorts</a><br/>Apr 28, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/NYHxl4yW7F4"><img width="140px" src="https://i.ytimg.com/vi/NYHxl4yW7F4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/NYHxl4yW7F4">Gigantes da Tecnologia Unidos: A Ameaça Cibernética Revelada! #shorts</a><br/>Apr 27, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/tLW9KLG_2B0"><img width="140px" src="https://i.ytimg.com/vi/tLW9KLG_2B0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/tLW9KLG_2B0">IA Supera Humanos em Segurança de Software! #shorts</a><br/>Apr 27, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
