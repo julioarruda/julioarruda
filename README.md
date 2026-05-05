@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/JQeCgxsVD1k"><img width="140px" src="https://i.ytimg.com/vi/JQeCgxsVD1k/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/u_DjtXWu1fg"><img width="140px" src="https://i.ytimg.com/vi/u_DjtXWu1fg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/u_DjtXWu1fg">Custo Variável IA: O Fim da Zona de Conforto #shorts</a><br/>May 5, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/JQeCgxsVD1k"><img width="140px" src="https://i.ytimg.com/vi/JQeCgxsVD1k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/JQeCgxsVD1k">GitHub Copilot Mudanças: Novo Modelo de Cobrança Revelado! #shorts</a><br/>May 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/lReiNda4Uf4"><img width="140px" src="https://i.ytimg.com/vi/lReiNda4Uf4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/lReiNda4Uf4">GitHub Copilot: Mudança de Preço e Impacto na sua AI #shorts</a><br/>May 4, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/watch?v=B5hz-MesLuA">GitHub Copilot vai cobrar por token: o que muda pra você em junho</a><br/>Apr 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/JcpLKSv9mLA"><img width="140px" src="https://i.ytimg.com/vi/JcpLKSv9mLA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/JcpLKSv9mLA">Milhares de Vulnerabilidades Críticas Não Corrigidas! #shorts</a><br/>Apr 29, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/Rxv-4eA3tss"><img width="140px" src="https://i.ytimg.com/vi/Rxv-4eA3tss/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Rxv-4eA3tss">IA: Habilidades Inesperadas Emergindo Rapidamente #shorts</a><br/>Apr 29, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
