@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/X6MQ7ZvPVBI"><img width="140px" src="https://i.ytimg.com/vi/X6MQ7ZvPVBI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/MkSYHfh1FtA"><img width="140px" src="https://i.ytimg.com/vi/MkSYHfh1FtA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/MkSYHfh1FtA">Copilot: A Evolução da IA para Desenvolvedores #shorts</a><br/>May 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/X6MQ7ZvPVBI"><img width="140px" src="https://i.ytimg.com/vi/X6MQ7ZvPVBI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/X6MQ7ZvPVBI">Economia da IA: O Futuro do Consumo e Preço #shorts</a><br/>May 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/W0vH-4Kngu0"><img width="140px" src="https://i.ytimg.com/vi/W0vH-4Kngu0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/W0vH-4Kngu0">Precificação Flat: O Problema da Seleção Adversa #shorts</a><br/>May 8, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/2alublyDEBY">GitHub AI: PRUs Viram Créditos de IA. Entenda a Mudança! #shorts</a><br/>May 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/cFvtOAam5Dk"><img width="140px" src="https://i.ytimg.com/vi/cFvtOAam5Dk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/cFvtOAam5Dk">GitHub Copilot: Mudança de Assinatura para Consumo! #shorts</a><br/>May 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/l0BvR5lsALg"><img width="140px" src="https://i.ytimg.com/vi/l0BvR5lsALg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/l0BvR5lsALg">Mudanças Essenciais: Prepare Seu Time Para Junho Agora! #shorts</a><br/>May 7, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
