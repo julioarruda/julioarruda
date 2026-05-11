@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/tY54h4i5rYg"><img width="140px" src="https://i.ytimg.com/vi/tY54h4i5rYg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/eiRgNlFwgw0"><img width="140px" src="https://i.ytimg.com/vi/eiRgNlFwgw0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/eiRgNlFwgw0">GitHub Copilot: Nova Cobrança por Token a Partir de Junho! #shorts</a><br/>May 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/tY54h4i5rYg"><img width="140px" src="https://i.ytimg.com/vi/tY54h4i5rYg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/tY54h4i5rYg">GitHub Copilot: Mudança de Preço e Impacto nos Workflows #shorts</a><br/>May 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/U-PHfYR1B9s"><img width="140px" src="https://i.ytimg.com/vi/U-PHfYR1B9s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/U-PHfYR1B9s">Copilot Pro: Custo Real Para Desenvolvedores &lpar;Explicado!&rpar; #shorts</a><br/>May 10, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/MkSYHfh1FtA">Copilot: A Evolução da IA para Desenvolvedores #shorts</a><br/>May 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/X6MQ7ZvPVBI"><img width="140px" src="https://i.ytimg.com/vi/X6MQ7ZvPVBI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/X6MQ7ZvPVBI">Economia da IA: O Futuro do Consumo e Preço #shorts</a><br/>May 8, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/W0vH-4Kngu0"><img width="140px" src="https://i.ytimg.com/vi/W0vH-4Kngu0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/W0vH-4Kngu0">Precificação Flat: O Problema da Seleção Adversa #shorts</a><br/>May 8, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
