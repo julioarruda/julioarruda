@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/bmynMwaKYqc"><img width="140px" src="https://i.ytimg.com/vi/bmynMwaKYqc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/gEkc1mWma8I"><img width="140px" src="https://i.ytimg.com/vi/gEkc1mWma8I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/gEkc1mWma8I">Copilot: A Revolução Econômica da Indústria Chegou! #shorts</a><br/>May 13, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/bmynMwaKYqc"><img width="140px" src="https://i.ytimg.com/vi/bmynMwaKYqc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/bmynMwaKYqc">Mudança Impactante: Fim do Fallback e Novo Preço #shorts</a><br/>May 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/V-nsfaDL3zE"><img width="140px" src="https://i.ytimg.com/vi/V-nsfaDL3zE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/V-nsfaDL3zE">Copilot: Nova Métrica API Linguagem Revelada! #shorts</a><br/>May 12, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/axg64ETcgIo">Plano Business: Nova Estratégia de Créditos para Devs #shorts</a><br/>May 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/GYAnYg1ko1A"><img width="140px" src="https://i.ytimg.com/vi/GYAnYg1ko1A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/GYAnYg1ko1A">GitHub: Mudança Radical no Modelo de Cobrança Revelada! #shorts</a><br/>May 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/eiRgNlFwgw0"><img width="140px" src="https://i.ytimg.com/vi/eiRgNlFwgw0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/eiRgNlFwgw0">GitHub Copilot: Nova Cobrança por Token a Partir de Junho! #shorts</a><br/>May 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
