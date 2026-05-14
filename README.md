@@ -26,7 +26,9 @@ Meu nome é Julio Arruda, e sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/
 
 PT-BR
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/fpEkjsNeJBc"><img width="140px" src="https://i.ytimg.com/vi/fpEkjsNeJBc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/y7m_HY5pRkc"><img width="140px" src="https://i.ytimg.com/vi/y7m_HY5pRkc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/y7m_HY5pRkc">GitHub AI Credits: A Nova Era Chega em Junho! #shorts</a><br/>May 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/fpEkjsNeJBc"><img width="140px" src="https://i.ytimg.com/vi/fpEkjsNeJBc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fpEkjsNeJBc">GitHub: A Comunicação Atropelada e o Impacto #shorts</a><br/>May 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/gEkc1mWma8I"><img width="140px" src="https://i.ytimg.com/vi/gEkc1mWma8I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/gEkc1mWma8I">Copilot: A Revolução Econômica da Indústria Chegou! #shorts</a><br/>May 13, 2026</td></tr></table>
@@ -34,8 +36,6 @@ PT-BR
 <td><a href="https://www.youtube.com/shorts/bmynMwaKYqc">Mudança Impactante: Fim do Fallback e Novo Preço #shorts</a><br/>May 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/V-nsfaDL3zE"><img width="140px" src="https://i.ytimg.com/vi/V-nsfaDL3zE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/V-nsfaDL3zE">Copilot: Nova Métrica API Linguagem Revelada! #shorts</a><br/>May 12, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/axg64ETcgIo"><img width="140px" src="https://i.ytimg.com/vi/axg64ETcgIo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/axg64ETcgIo">Plano Business: Nova Estratégia de Créditos para Devs #shorts</a><br/>May 12, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 EN-US
